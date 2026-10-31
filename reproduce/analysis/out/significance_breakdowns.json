@@ -1,0 +1,35 @@
+[
+  {
+    "benchmark": "ComplexTR",
+    "n": 329,
+    "both": 141,
+    "ours_only": 53,
+    "base_only": 23,
+    "neither": 112,
+    "net": 30,
+    "discordant": 76,
+    "p_mcnemar": 0.0007645817391550472
+  },
+  {
+    "benchmark": "TimeQA",
+    "n": 2613,
+    "both": 1330,
+    "ours_only": 286,
+    "base_only": 191,
+    "neither": 806,
+    "net": 95,
+    "discordant": 477,
+    "p_mcnemar": 1.579283177454916e-05
+  },
+  {
+    "benchmark": "TempReason-L3",
+    "n": 500,
+    "both": 251,
+    "ours_only": 164,
+    "base_only": 24,
+    "neither": 61,
+    "net": 140,
+    "discordant": 188,
+    "p_mcnemar": 7.874288256898493e-27
+  }
+]

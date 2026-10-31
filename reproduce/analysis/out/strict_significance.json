@@ -1,0 +1,82 @@
+{
+ "ComplexTR|NaiveRAG|em": {
+  "w": 37,
+  "l": 48,
+  "p": 0.2779992890805517
+ },
+ "ComplexTR|NaiveRAG|judge": {
+  "w": 44,
+  "l": 50,
+  "p": 0.6062959376939656
+ },
+ "ComplexTR|LightRAG|em": {
+  "w": 23,
+  "l": 54,
+  "p": 0.0005387801699960486
+ },
+ "ComplexTR|LightRAG|judge": {
+  "w": 31,
+  "l": 53,
+  "p": 0.021383189937144585
+ },
+ "ComplexTR|GraphRAG|em": {
+  "w": 32,
+  "l": 50,
+  "p": 0.059808338334316175
+ },
+ "ComplexTR|GraphRAG|judge": {
+  "w": 41,
+  "l": 56,
+  "p": 0.1548157850344288
+ },
+ "ComplexTR|DyG-RAG|em": {
+  "w": 51,
+  "l": 34,
+  "p": 0.08205429958748713
+ },
+ "ComplexTR|DyG-RAG|judge": {
+  "w": 50,
+  "l": 40,
+  "p": 0.3428331194207878
+ },
+ "TempReason-L3|NaiveRAG|em": {
+  "w": 47,
+  "l": 102,
+  "p": 7.744164914768694e-06
+ },
+ "TempReason-L3|NaiveRAG|judge": {
+  "w": 48,
+  "l": 79,
+  "p": 0.007519595098400052
+ },
+ "TempReason-L3|DyG-RAG|em": {
+  "w": 152,
+  "l": 43,
+  "p": 1.8044512387470464e-15
+ },
+ "TempReason-L3|DyG-RAG|judge": {
+  "w": 127,
+  "l": 37,
+  "p": 9.485274445833628e-13
+ },
+ "TimeQA|NaiveRAG|em": {
+  "w": 456,
+  "l": 340,
+  "p": 4.4500020495295644e-05
+ },
+ "TimeQA|NaiveRAG|judge": {
+  "w": 580,
+  "l": 309,
+  "p": 7.064264561394801e-20
+ },
+ "TimeQA|DyG-RAG|em": {
+  "w": 247,
+  "l": 220,
+  "p": 0.22888650417832507
+ },
+ "TimeQA|DyG-RAG|judge": {
+  "w": 282,
+  "l": 227,
+  "p": 0.016603693247785205
+ }
+}

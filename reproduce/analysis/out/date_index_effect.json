@@ -1,0 +1,17 @@
+{
+  "complextr": {
+    "anchored_queries": 307,
+    "identical_top20": 307,
+    "mean_overlap": 1.0
+  },
+  "tempreason_l3": {
+    "anchored_queries": 500,
+    "identical_top20": 500,
+    "mean_overlap": 1.0
+  },
+  "timeqa": {
+    "anchored_queries": 2437,
+    "identical_top20": 2434,
+    "mean_overlap": 0.9998974148543291
+  }
+}

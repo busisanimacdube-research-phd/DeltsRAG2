@@ -1,0 +1,72 @@
+{
+  "complextr": {
+    "questions": 329,
+    "parsed_from_cache": 329,
+    "query_types": {
+      "hybrid": 0.7993920972644377,
+      "temporal_dominant": 0.0121580547112462,
+      "entity_dominant": 0.1884498480243161
+    },
+    "temporal_strength_mean": 0.6328267477203648,
+    "entity_strength_mean": 0.6358662613981761,
+    "queries_with_entities": 1.0,
+    "anchor_found_rate": 1.0,
+    "match_rule_share": {
+      "exact": 0.02490441252454273,
+      "containment": 0.9720987909476078,
+      "jaccard": 0.00299679652784954
+    },
+    "matched_keys_median": 28.0,
+    "matched_events_median": 123.0,
+    "matched_events_p90": 221.2,
+    "injected_events_mean": 20.0,
+    "queries_matching_extra_referents": 1.0,
+    "gold_answer_in_anchored_source_chunks": 0.5714285714285714
+  },
+  "tempreason_l3": {
+    "questions": 500,
+    "parsed_from_cache": 500,
+    "query_types": {
+      "hybrid": 0.642,
+      "entity_dominant": 0.358
+    },
+    "temporal_strength_mean": 0.4096,
+    "entity_strength_mean": 0.6307999999999999,
+    "queries_with_entities": 1.0,
+    "anchor_found_rate": 1.0,
+    "match_rule_share": {
+      "containment": 0.9661565836298932,
+      "exact": 0.02192170818505338,
+      "jaccard": 0.01192170818505338
+    },
+    "matched_keys_median": 56.0,
+    "matched_events_median": 1060.0,
+    "matched_events_p90": 1763.6000000000004,
+    "injected_events_mean": 20.0,
+    "queries_matching_extra_referents": 1.0,
+    "gold_answer_in_anchored_source_chunks": 0.166
+  },
+  "timeqa": {
+    "questions": 2613,
+    "parsed_from_cache": 2612,
+    "query_types": {
+      "hybrid": 0.9486983154670751,
+      "temporal_dominant": 0.05130168453292496
+    },
+    "temporal_strength_mean": 0.6913476263399694,
+    "entity_strength_mean": 0.5904670750382848,
+    "queries_with_entities": 1.0,
+    "anchor_found_rate": 1.0,
+    "match_rule_share": {
+      "exact": 0.01488904456027451,
+      "containment": 0.9812284055424291,
+      "jaccard": 0.003882549897296463
+    },
+    "matched_keys_median": 49.5,
+    "matched_events_median": 701.0,
+    "matched_events_p90": 961.0,
+    "injected_events_mean": 20.0,
+    "queries_matching_extra_referents": 1.0,
+    "gold_answer_in_anchored_source_chunks": 0.5356049004594181
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "document_stats": {
+    "total_documents": 3159,
+    "total_tokens": 1819999,
+    "avg_tokens_per_doc": 576.1313706869263,
+    "max_tokens": 84869,
+    "min_tokens": 7,
+    "total_chars": 7275224
+  },
+  "question_stats": {
+    "original_questions": 3078,
+    "filtered_questions": 2613,
+    "empty_answers_removed": 465,
+    "question_tokens": 42018,
+    "answer_tokens": 13625,
+    "avg_question_tokens": 16.08036739380023,
+    "avg_answer_tokens": 5.214313050133946,
+    "total_tokens": 55643
+  },
+  "top_10_largest_documents": [
+    {
+      "doc_id": 70,
+      "title": "History",
+      "tokens": 84869,
+      "chars": 339475
+    },
+    {
+      "doc_id": 24,
+      "title": "Career",
+      "tokens": 59552,
+      "chars": 238206
+    },
+    {
+      "doc_id": 22,
+      "title": "Early life",
+      "tokens": 40664,
+      "chars": 162655
+    },
+    {
+      "doc_id": 182,
+      "title": "Political career",
+      "tokens": 31657,
+      "chars": 126627
+    },
+    {
+      "doc_id": 11,
+      "title": "Biography",
+      "tokens": 30285,
+      "chars": 121138
+    },
+    {
+      "doc_id": 12,
+      "title": "Personal life",
+      "tokens": 28745,
+      "chars": 114978
+    },
+    {
+      "doc_id": 2,
+      "title": "International career",
+      "tokens": 20217,
+      "chars": 80868
+    },
+    {
+      "doc_id": 194,
+      "title": "Early career",
+      "tokens": 13898,
+      "chars": 55589
+    },
+    {
+      "doc_id": 18,
+      "title": "Life and career",
+      "tokens": 13164,
+      "chars": 52653
+    },
+    {
+      "doc_id": 1,
+      "title": "Club career",
+      "tokens": 12078,
+      "chars": 48310
+    }
+  ],
+  "bottom_10_smallest_documents": [
+    {
+      "doc_id": 251,
+      "title": "Tours",
+      "tokens": 13,
+      "chars": 51
+    },
+    {
+      "doc_id": 1413,
+      "title": "Sister city",
+      "tokens": 13,
+      "chars": 52
+    },
+    {
+      "doc_id": 1585,
+      "title": "Major wins",
+      "tokens": 13,
+      "chars": 49
+    },
+    {
+      "doc_id": 926,
+      "title": "IndyCar Series",
+      "tokens": 12,
+      "chars": 46
+    },
+    {
+      "doc_id": 1595,
+      "title": "England U17",
+      "tokens": 12,
+      "chars": 45
+    },
+    {
+      "doc_id": 2228,
+      "title": "Formula One records",
+      "tokens": 12,
+      "chars": 47
+    },
+    {
+      "doc_id": 2595,
+      "title": "Spain U17",
+      "tokens": 10,
+      "chars": 39
+    },
+    {
+      "doc_id": 2935,
+      "title": "External sources",
+      "tokens": 9,
+      "chars": 33
+    },
+    {
+      "doc_id": 1526,
+      "title": "Chennaiyin",
+      "tokens": 8,
+      "chars": 32
+    },
+    {
+      "doc_id": 1092,
+      "title": "PSM Makassar",
+      "tokens": 7,
+      "chars": 25
+    }
+  ]
+}

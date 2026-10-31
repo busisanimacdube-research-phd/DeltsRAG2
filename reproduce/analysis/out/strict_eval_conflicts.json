@@ -1,0 +1,3426 @@
+{
+ "timeqa__delta+eatr+inject.json::delta+eatr+inject": {
+  "n": 149,
+  "inclusion_acc": 0.8926174496644296,
+  "exact_match": 0.5436241610738255,
+  "judge_acc": 0.6711409395973155,
+  "inclusion_but_judge_incorrect": 0.2214765100671141,
+  "rows": [
+   {
+    "question_id": "2795",
+    "final_answer": "Bushy Park, west-southwest of London, England",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1541",
+    "final_answer": "Carl August Ehrensv\u00e4rd",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "951",
+    "final_answer": "Tony Parker",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1787",
+    "final_answer": "Granada CF",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1482",
+    "final_answer": "Forest Green Rovers",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "3050",
+    "final_answer": "Brighton & Hove Albion",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1328",
+    "final_answer": "Real Valladolid",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2142",
+    "final_answer": "Corinthians",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "789",
+    "final_answer": "Arsenal Ladies",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1843",
+    "final_answer": "Danish Minister for Climate and Energy",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "502",
+    "final_answer": "Macquarie University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "504",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "2784",
+    "final_answer": "Real Betis",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "371",
+    "final_answer": "Olympique de Marseille",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2284",
+    "final_answer": "Wigan Athletic",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2958",
+    "final_answer": "\u00c1lvaro Alberto da Mota e Silva",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1952",
+    "final_answer": "Benfica",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2596",
+    "final_answer": "Trinity College",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2990",
+    "final_answer": "Bradford City",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2231",
+    "final_answer": "Jitex BK",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "530",
+    "final_answer": "Member of Parliament for Macclesfield",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1147",
+    "final_answer": "Hung Hom",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "381",
+    "final_answer": "Edinburgh",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2694",
+    "final_answer": "Fellow of the Royal Society",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2516",
+    "final_answer": "Marco Simone played for Monaco in September 1999",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "386",
+    "final_answer": "Vale of Rheidol Railway",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1591",
+    "final_answer": "San Francisco 49ers",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1161",
+    "final_answer": "Class D West Texas\u2013New Mexico League",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2265",
+    "final_answer": "Seattle, Washington",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "2373",
+    "final_answer": "Sam Elliott",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "742",
+    "final_answer": "Boca Juniors",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2029",
+    "final_answer": "Club Athletico Paranaense",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "3054",
+    "final_answer": "M\u00e1laga in La Liga",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "1618",
+    "final_answer": "Abel Resino",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1906",
+    "final_answer": "Armenian State Pedagogical University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "957",
+    "final_answer": "Vicar at Emmanuel Church, South Croydon, and the Bishop of Southwarks examining chaplain",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "218",
+    "final_answer": "Harvard",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2974",
+    "final_answer": "Vaasan Palloseura",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2012",
+    "final_answer": "Stanley Fischer was at the London School of Economics in July 1966.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "57",
+    "final_answer": "Brann",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "366",
+    "final_answer": "Andr\u00e9 Pawlak",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1457",
+    "final_answer": "Minister of Education",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2904",
+    "final_answer": "Howard University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "12",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2268",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "898",
+    "final_answer": "Stetson University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2699",
+    "final_answer": "Sheffield Wednesday",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1189",
+    "final_answer": "Lieutenant Governor",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2593",
+    "final_answer": "non-league Lancaster City",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "219",
+    "final_answer": "Neil Kinnock",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "2090",
+    "final_answer": "Melbourne Knights",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "804",
+    "final_answer": "King of Aragon",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "514",
+    "final_answer": "Gerhard Stoltenberg",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1993",
+    "final_answer": "Crossroads School",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1650",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "350",
+    "final_answer": "Conservative member of parliament",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1176",
+    "final_answer": "Senegalese Democratic Party (PDS)",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1860",
+    "final_answer": "John Loder",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1807",
+    "final_answer": "Villa Madonna College",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "407",
+    "final_answer": "Nicolae Filipescu was the mayor of Bucharest before September 1894.",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1112",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2022",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "1062",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2599",
+    "final_answer": "University of Oxford",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "456",
+    "final_answer": "Pa\u00e7os de Ferreira",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2007",
+    "final_answer": "Finance Minister",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1982",
+    "final_answer": "Gillingham",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "737",
+    "final_answer": "Gloucester City",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2005",
+    "final_answer": "governor of Arizona",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2164",
+    "final_answer": "Prime Minister of Belgium",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1050",
+    "final_answer": "VP-22",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1640",
+    "final_answer": "Christian Huitema",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "354",
+    "final_answer": "Henri Becquerel joined the Acad\u00e9mie des Sciences as its Permanent Secretary in 1908.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2209",
+    "final_answer": "Russian (Soviet)",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "3074",
+    "final_answer": "Akademie der Wissenschaften und der Literatur Mainz",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2117",
+    "final_answer": "the Los Angeles Times",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1056",
+    "final_answer": "Blackburn Rovers",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "656",
+    "final_answer": "Basford United",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "686",
+    "final_answer": "Russian Academy of Sciences",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "674",
+    "final_answer": "Nanjing Institute of Technology",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "131",
+    "final_answer": "Brentford",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2433",
+    "final_answer": "Chicago Blackhawks and the Chicago Bulls",
+    "em": 1,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1741",
+    "final_answer": "Bishop Auckland",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "347",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2499",
+    "final_answer": "Cardinal-Bishop of Albano",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "468",
+    "final_answer": "Home Secretary",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "539",
+    "final_answer": "K. S. Chandrasekharan",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "147",
+    "final_answer": "Deputy Prime Minister",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "3042",
+    "final_answer": "Joanna Holland",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1983",
+    "final_answer": "Tranmere Rovers",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2515",
+    "final_answer": "Paris Saint-Germain",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "3039",
+    "final_answer": "Kikki, Bettan & Lotta",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1918",
+    "final_answer": "Royal Australian Navy (RAN)",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1002",
+    "final_answer": "Cardiff City",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1912",
+    "final_answer": "Heavy Patrol Squadron (Landplane) 7 (VP-HL-7)",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "869",
+    "final_answer": "The National Register of Historic Places",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "777",
+    "final_answer": "India",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2503",
+    "final_answer": "Mikhail Fridman",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2178",
+    "final_answer": "Bayern Munich",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2133",
+    "final_answer": "Sini\u0161a Mihajlovi\u0107",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1001",
+    "final_answer": "Derby County",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1813",
+    "final_answer": "Macclesfield",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2377",
+    "final_answer": "Izod",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "2584",
+    "final_answer": "Premier of Quebec",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1325",
+    "final_answer": "Vit\u00f3ria de Guimar\u00e3es",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "303",
+    "final_answer": "Deputy Chairman of New Zealand Post starting from November 2009",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "2988",
+    "final_answer": "Grays Athletic",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1791",
+    "final_answer": "Dowager Empress Maria Feodorovna",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2328",
+    "final_answer": "Vienna Conservatory",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1242",
+    "final_answer": "Deputy Leader of the New Zealand Labour Party and Deputy Leader of the Opposition",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "692",
+    "final_answer": "Lowe's Home Improvement chain",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "895",
+    "final_answer": "Infogrames",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "63",
+    "final_answer": "Huddersfield Town",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2704",
+    "final_answer": "New York and the United States",
+    "em": 1,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "993",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "429",
+    "final_answer": "National Historic Landmark",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2858",
+    "final_answer": "Chinese citizenship",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "799",
+    "final_answer": "acting Premier",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "602",
+    "final_answer": "Sacra Music",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2935",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1566",
+    "final_answer": "Hawaii Preparatory Academy",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "3008",
+    "final_answer": "Vice President of the Republic of China (Taiwan)",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "529",
+    "final_answer": "member of the Select Committee on the Modernisation of the House of Commons",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "2571",
+    "final_answer": "Raith Rovers",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "791",
+    "final_answer": "Chief Minister of Delhi",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "161",
+    "final_answer": "Erich Topp's submarine, U-57, was sunk by a collision with the Norwegian vessel Rona near Brunsb\u00fcttel on 3 September 1940.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "2113",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2345",
+    "final_answer": "Veliky Novgorod",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1958",
+    "final_answer": "naval attach\u00e9 at the Swedish mission and in London",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2506",
+    "final_answer": "CNN",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "3030",
+    "final_answer": "Team CSC Saxo Bank",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "455",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "681",
+    "final_answer": "Vancouver Whitecaps",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2244",
+    "final_answer": "League of Communists \u2013 Movement for Yugoslavia",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2118",
+    "final_answer": "United States Post Office Department",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "443",
+    "final_answer": "Prime Minister of Greece",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2860",
+    "final_answer": "Red Star Belgrade",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "2917",
+    "final_answer": "Baltimore Ravens",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1377",
+    "final_answer": "Leatrice Joy",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "426",
+    "final_answer": "Kyle Macy played for the University of Kentucky between July 1978 and December 1979.",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "138",
+    "final_answer": "Brighton & Hove Albion",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2243",
+    "final_answer": "Kalinin State University (KSU)",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "707",
+    "final_answer": "AC Milan",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "658",
+    "final_answer": "non-voting Democratic delegate",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2644",
+    "final_answer": "Tottenham Hotspur",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "454",
+    "final_answer": "Benfica",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1750",
+    "final_answer": "Moscow Institute of Physics and Technology (MIPT)",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "763",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "2687",
+    "final_answer": "Crystal Palace",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   }
+  ]
+ },
+ "timeqa__delta+eatr+inject+fusion.json::delta+eatr+inject+fusion": {
+  "n": 150,
+  "inclusion_acc": 0.8866666666666667,
+  "exact_match": 0.5666666666666667,
+  "judge_acc": 0.68,
+  "inclusion_but_judge_incorrect": 0.21333333333333335,
+  "rows": [
+   {
+    "question_id": "2795",
+    "final_answer": "Bushy Park, west-southwest of London, England",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1541",
+    "final_answer": "Major General Carl August Ehrensv\u00e4rd",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "951",
+    "final_answer": "Tony Parker",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1787",
+    "final_answer": "Granada CF",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1482",
+    "final_answer": "Forest Green Rovers",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "3050",
+    "final_answer": "Brighton & Hove Albion",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1328",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2142",
+    "final_answer": "Corinthians",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "789",
+    "final_answer": "Arsenal Ladies",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1843",
+    "final_answer": "Danish Minister for Climate and Energy",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "502",
+    "final_answer": "Macquarie University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "504",
+    "final_answer": "Field Marshal Mohamed Hussein Tantawi",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "2784",
+    "final_answer": "Real Betis",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "371",
+    "final_answer": "Olympique de Marseille",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2284",
+    "final_answer": "Wigan Athletic",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2958",
+    "final_answer": "\u00c1lvaro Alberto da Mota e Silva",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1952",
+    "final_answer": "B-team",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2596",
+    "final_answer": "Trinity College",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2990",
+    "final_answer": "Hull City",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2231",
+    "final_answer": "Jitex BK",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "530",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1147",
+    "final_answer": "Hung Hom",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "381",
+    "final_answer": "Edinburgh",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2694",
+    "final_answer": "Fellow of the Royal Society",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2516",
+    "final_answer": "Monaco",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "386",
+    "final_answer": "Vale of Rheidol Railway",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1591",
+    "final_answer": "San Francisco 49ers",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1161",
+    "final_answer": "Class C West Texas\u2013New Mexico League",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2265",
+    "final_answer": "in Seattle, Washington",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "2373",
+    "final_answer": "Sam Elliott",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "742",
+    "final_answer": "Boca Juniors",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2029",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "3054",
+    "final_answer": "FC Rubin Kazan",
+    "em": 1,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1618",
+    "final_answer": "Javier Vidales",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1906",
+    "final_answer": "Armenian State Pedagogical University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "957",
+    "final_answer": "Vicar of Emmanuel Church, South Croydon and the Bishop of Southwark's examining chaplain",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "218",
+    "final_answer": "Harvard University",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2974",
+    "final_answer": "Vaasan Palloseura",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2012",
+    "final_answer": "London School of Economics (LSE)",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "57",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "366",
+    "final_answer": "Andr\u00e9 Pawlak",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1457",
+    "final_answer": "Minister of Education in the Northern Ireland Executive.",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2904",
+    "final_answer": "Howard University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "12",
+    "final_answer": "Padjadjaran University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2268",
+    "final_answer": "Peter Iden",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "898",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2699",
+    "final_answer": "Sheffield Wednesday",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1189",
+    "final_answer": "lieutenant governor",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2593",
+    "final_answer": "Leicester City",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "219",
+    "final_answer": "Neil Kinnock",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "2090",
+    "final_answer": "Melbourne Knights",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "804",
+    "final_answer": "King of Aragon",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "514",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "1993",
+    "final_answer": "Old Trail School",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1650",
+    "final_answer": "Social Democratic Federation",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "350",
+    "final_answer": "member of parliament",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1176",
+    "final_answer": "Senegalese Democratic Party (PDS)",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1860",
+    "final_answer": "John Loder",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1807",
+    "final_answer": "Villa Madonna College",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "407",
+    "final_answer": "mayor of Bucharest",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1112",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2022",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "1062",
+    "final_answer": "Catholic High School of Pointe Coupee",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2599",
+    "final_answer": "University of Oxford",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "456",
+    "final_answer": "Pa\u00e7os de Ferreira",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2007",
+    "final_answer": "Finance Minister of Arizona",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1982",
+    "final_answer": "Gillingham",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "737",
+    "final_answer": "Gloucester City",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2005",
+    "final_answer": "the Governor of Arizona",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2164",
+    "final_answer": "Prime Minister",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1050",
+    "final_answer": "Patrol Squadron 42 (VP-42)",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "1640",
+    "final_answer": "Christian Huitema",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "354",
+    "final_answer": "Acad\u00e9mie des Sciences",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "2209",
+    "final_answer": "Russian",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "3074",
+    "final_answer": "Akademie der Wissenschaften und der Literatur Mainz",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2117",
+    "final_answer": "the Los Angeles Times",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1056",
+    "final_answer": "Blackburn Rovers",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "656",
+    "final_answer": "Bromley",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "686",
+    "final_answer": "Russian Academy of Sciences",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "674",
+    "final_answer": "Nanjing Institute of Technology",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "131",
+    "final_answer": "Brentford",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2433",
+    "final_answer": "Chicago Blackhawks of the NHL and the Chicago Bulls of the NBA",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1741",
+    "final_answer": "Bishop Auckland",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "347",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2499",
+    "final_answer": "Cardinal-Bishop of Albano",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "468",
+    "final_answer": "Minister without Portfolio",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "539",
+    "final_answer": "K. S. Chandrasekharan was the president of the International Mathematical Union between Oct 1971 and Jun 1973.",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "147",
+    "final_answer": "Deputy Prime Minister",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "3042",
+    "final_answer": "Joanna Holland",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1983",
+    "final_answer": "Tranmere Rovers",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2515",
+    "final_answer": "Paris Saint-Germain",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "3039",
+    "final_answer": "Kikki, Bettan & Lotta",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1918",
+    "final_answer": "Royal Netherlands Navy",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1002",
+    "final_answer": "Bursaspor",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1912",
+    "final_answer": "Heavy Patrol Squadron (Landplane) 7 (VP-HL-7)",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "869",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "777",
+    "final_answer": "India",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2503",
+    "final_answer": "Mikhail Fridman",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2178",
+    "final_answer": "Bayern Munich",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2133",
+    "final_answer": "Sini\u0161a Mihajlovi\u0107",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1001",
+    "final_answer": "Derby County",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1813",
+    "final_answer": "Macclesfield",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2377",
+    "final_answer": "Izod Lacoste",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "2584",
+    "final_answer": "Premier of Quebec until his retirement in 2001",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1325",
+    "final_answer": "Vit\u00f3ria de Guimar\u00e3es",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "303",
+    "final_answer": "Deputy Prime Minister and Minister of Finance",
+    "em": 1,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2988",
+    "final_answer": "Grays Athletic",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1791",
+    "final_answer": "Maria Feodorovna",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2328",
+    "final_answer": "Richard St\u00f6hr worked at the Vienna Conservatory between November 1924 and June 1930.",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1242",
+    "final_answer": "Deputy Leader of the New Zealand Labour Party and the Deputy Leader of the Opposition",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "692",
+    "final_answer": "Lowe's Home Improvement chain",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "895",
+    "final_answer": "Infogrames (formerly GT Interactive)",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "63",
+    "final_answer": "Cardiff City",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2704",
+    "final_answer": "New York",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "993",
+    "final_answer": "University of North Carolina at Chapel Hill",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "429",
+    "final_answer": "National Historic Landmark",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2858",
+    "final_answer": "Chinese citizenship",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "799",
+    "final_answer": "Provincial Minister of Community Safety",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1380",
+    "final_answer": "Team Type 1",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "602",
+    "final_answer": "Sacra Music",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2935",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1566",
+    "final_answer": "Hawaii Preparatory Academy",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "3008",
+    "final_answer": "Vice President of the Republic of China (Taiwan)",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "529",
+    "final_answer": "member of the Select Committee on the Modernisation of the House of Commons",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "2571",
+    "final_answer": "Colin Cameron was with Raith Rovers in May 1994.",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "791",
+    "final_answer": "Chief Minister of Delhi",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "161",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "2113",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2345",
+    "final_answer": "Novgorod",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1958",
+    "final_answer": "naval attach\u00e9",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2506",
+    "final_answer": "CNN",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "3030",
+    "final_answer": "Team Saxo Bank",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "455",
+    "final_answer": "Pa\u00e7os de Ferreira",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "681",
+    "final_answer": "Vancouver Whitecaps",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2244",
+    "final_answer": "League of Communists \u2013 Movement for Yugoslavia",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2118",
+    "final_answer": "the United States Post Office Department",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "443",
+    "final_answer": "Prime Minister of Greece",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2860",
+    "final_answer": "FK Zemun",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "2917",
+    "final_answer": "Baltimore Ravens",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1377",
+    "final_answer": "Leatrice Joy",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "426",
+    "final_answer": "Kyle Macy played for the University of Kentucky between July 1978 and December 1979.",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "138",
+    "final_answer": "Brighton & Hove Albion",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2243",
+    "final_answer": "Tver State University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "707",
+    "final_answer": "AC Milan (Rossoneri)",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "658",
+    "final_answer": "non-voting Democratic delegate",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2644",
+    "final_answer": "Tottenham Hotspur",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "454",
+    "final_answer": "Benfica",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1750",
+    "final_answer": "Moscow Institute of Physics and Technology",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "763",
+    "final_answer": "NOW Legal Defense and Education Fund",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2687",
+    "final_answer": "Crystal Palace",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   }
+  ]
+ },
+ "timeqa__delta+eatr+inject+fusion_eq.json::delta+eatr+inject+fusion_eq": {
+  "n": 149,
+  "inclusion_acc": 0.8926174496644296,
+  "exact_match": 0.5302013422818792,
+  "judge_acc": 0.6778523489932886,
+  "inclusion_but_judge_incorrect": 0.2214765100671141,
+  "rows": [
+   {
+    "question_id": "2795",
+    "final_answer": "Langley Field, Virginia, USA",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1541",
+    "final_answer": "Major General Mohamed Arafat",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "951",
+    "final_answer": "Tony Parker",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1787",
+    "final_answer": "Granada CF",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1482",
+    "final_answer": "Forest Green Rovers",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "3050",
+    "final_answer": "Brighton & Hove Albion",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1328",
+    "final_answer": "Henrique Sereno played for Real Valladolid between March and May 2012, under a loan from Porto.",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2142",
+    "final_answer": "Be\u015fikta\u015f",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "789",
+    "final_answer": "Arsenal Ladies",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1843",
+    "final_answer": "Danish Minister for Climate and Energy",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "502",
+    "final_answer": "Macquarie University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "504",
+    "final_answer": "Field Marshal Mohamed Hussein Tantawi",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "2784",
+    "final_answer": "Real Betis",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "371",
+    "final_answer": "Olympique de Marseille",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2284",
+    "final_answer": "Wigan Athletic",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2958",
+    "final_answer": "\u00c1lvaro Alberto da Mota e Silva",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1952",
+    "final_answer": "Benfica",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2596",
+    "final_answer": "Trinity College",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2990",
+    "final_answer": "Hull City",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2231",
+    "final_answer": "Jitex BK",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "530",
+    "final_answer": "Member of Parliament for Macclesfield",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1147",
+    "final_answer": "Hung Hom",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "381",
+    "final_answer": "Edinburgh, Scotland",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2694",
+    "final_answer": "Fellow of the Royal Society",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2516",
+    "final_answer": "Marco Simone was playing for Monaco in September 1999.",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "386",
+    "final_answer": "Vale of Rheidol Railway",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1591",
+    "final_answer": "San Francisco 49ers",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1161",
+    "final_answer": "Class D West Texas\u2013New Mexico League",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2265",
+    "final_answer": "Seattle, Washington",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2373",
+    "final_answer": "Sam Elliott",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "742",
+    "final_answer": "Boca Juniors",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2029",
+    "final_answer": "Atl\u00e9tico Paranaense",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "3054",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1618",
+    "final_answer": "Javier Vidales",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "1906",
+    "final_answer": "Armenian State Pedagogical University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "957",
+    "final_answer": "vicar of Emmanuel Church, South Croydon and the Bishop of Southwarks examining chaplain",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "218",
+    "final_answer": "Harvard University",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2974",
+    "final_answer": "Vaasan Palloseura",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2012",
+    "final_answer": "Stanley Fischer was at the London School of Economics in July 1966.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "57",
+    "final_answer": "Brann",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "366",
+    "final_answer": "Andr\u00e9 Pawlak",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "1457",
+    "final_answer": "Minister of Education",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2904",
+    "final_answer": "Howard University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "12",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2268",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "898",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2699",
+    "final_answer": "Sheffield Wednesday",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1189",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2593",
+    "final_answer": "Preston North End",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "219",
+    "final_answer": "Neil Kinnock",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "2090",
+    "final_answer": "Melbourne Knights",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "804",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "514",
+    "final_answer": "Bert Even",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1993",
+    "final_answer": "Old Trail School",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1650",
+    "final_answer": "Social Democratic Federation",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "350",
+    "final_answer": "Ion Hamilton Benn was a Conservative member of parliament in April 1921.",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1176",
+    "final_answer": "Senegalese Democratic Party (PDS)",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1860",
+    "final_answer": "John Loder",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1807",
+    "final_answer": "Villa Madonna College",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "407",
+    "final_answer": "Mayor of Bucharest",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1112",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2022",
+    "final_answer": "Roosarna",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1062",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "2599",
+    "final_answer": "Ronald Knox was serving as the Catholic chaplain at the University of Oxford after September 1937.",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "456",
+    "final_answer": "Pa\u00e7os de Ferreira",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2007",
+    "final_answer": "Chief Justice of the Arizona Supreme Court",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1982",
+    "final_answer": "Gillingham",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "737",
+    "final_answer": "Gloucester City",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2005",
+    "final_answer": "Governor of Arizona",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2164",
+    "final_answer": "Prime Minister of Belgium",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1050",
+    "final_answer": "Patrol Squadron 22, or VP-22",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1640",
+    "final_answer": "Christian Huitema",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "354",
+    "final_answer": "Henri Becquerel was elected a Foreign Member of the Royal Society (ForMemRS) in 1908",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2209",
+    "final_answer": "Russian",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "3074",
+    "final_answer": "Akademie der Wissenschaften und der Literatur Mainz",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2117",
+    "final_answer": "The Los Angeles Times",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1056",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "656",
+    "final_answer": "Basford United",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "686",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "674",
+    "final_answer": "Nanjing Institute of Technology",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "131",
+    "final_answer": "Brentford",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2433",
+    "final_answer": "Chicago Blackhawks (for ice hockey) and the Chicago Bulls (for basketball)",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1741",
+    "final_answer": "Bishop Auckland",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "347",
+    "final_answer": "Shadow Cabinet",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2499",
+    "final_answer": "Cardinal-Bishop of Albano",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "468",
+    "final_answer": "Home Secretary",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "539",
+    "final_answer": "K. S. Chandrasekharan",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "147",
+    "final_answer": "Minister of Health",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "3042",
+    "final_answer": "Joanna Holland",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1983",
+    "final_answer": "Tranmere Rovers",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2515",
+    "final_answer": "Paris Saint-Germain",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "3039",
+    "final_answer": "Kikki | Bettan & Lotta",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1918",
+    "final_answer": "Royal Netherlands Navy",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1002",
+    "final_answer": "Bursaspor",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1912",
+    "final_answer": "VP-27",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "869",
+    "final_answer": "The heritage designation of Vista House before July 1979 was its listing on the National Register of Historic Places on November 5, 1974.",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "777",
+    "final_answer": "India",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2503",
+    "final_answer": "Mikhail Fridman owned Athlone House after October 2016.",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2178",
+    "final_answer": "Bayern Munich",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2133",
+    "final_answer": "Paco J\u00e9mez",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1001",
+    "final_answer": "Derby County",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1813",
+    "final_answer": "Macclesfield",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2377",
+    "final_answer": "Izod",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "2584",
+    "final_answer": "Premier of Quebec",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1325",
+    "final_answer": "Vit\u00f3ria de Guimar\u00e3es",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "303",
+    "final_answer": "Minister of Finance and Deputy Prime Minister",
+    "em": 1,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2988",
+    "final_answer": "Grays Athletic",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1791",
+    "final_answer": "Francis Reckitt",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "2328",
+    "final_answer": "Vienna Conservatory",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1242",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "692",
+    "final_answer": "Lowe's Home Improvement",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "895",
+    "final_answer": "Infogrames, Inc.",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "63",
+    "final_answer": "Cardiff City",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2704",
+    "final_answer": "New York City",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "993",
+    "final_answer": "University of North Carolina (UNC-Chapel Hill)",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "429",
+    "final_answer": "National Historic Landmark",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2858",
+    "final_answer": "Chinese citizenship",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "799",
+    "final_answer": "Provincial Minister of Community Safety",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "602",
+    "final_answer": "Sacra Music",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2935",
+    "final_answer": "Fiat",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1566",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "3008",
+    "final_answer": "Vice President of the Republic of China (Taiwan)",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "529",
+    "final_answer": "Member of Parliament",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2571",
+    "final_answer": "Raith Rovers",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "791",
+    "final_answer": "Chief Minister of Delhi",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "161",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2113",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2345",
+    "final_answer": "Veliky Novgorod",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1958",
+    "final_answer": "naval attach\u00e9",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2506",
+    "final_answer": "CNN",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "3030",
+    "final_answer": "Team Saxo Bank",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "455",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "681",
+    "final_answer": "Oldham Athletic",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2244",
+    "final_answer": "League of Communists \u2013 Movement for Yugoslavia",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2118",
+    "final_answer": "the United States Post Office Department (now the United States Postal Service)",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "443",
+    "final_answer": "Prime Minister of Greece",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2860",
+    "final_answer": "FK Zemun",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "2917",
+    "final_answer": "Baltimore Ravens",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1377",
+    "final_answer": "Leatrice Joy Gilbert Fountain",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "426",
+    "final_answer": "University of Kentucky's basketball team",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "138",
+    "final_answer": "Brighton & Hove Albion",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2243",
+    "final_answer": "Kalinin State University (KSU)",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "707",
+    "final_answer": "AC Milan",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "658",
+    "final_answer": "non-voting Democratic delegate representing Wisconsin Territory\u2019s at-large congressional district",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2644",
+    "final_answer": "Tottenham Hotspur",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "454",
+    "final_answer": "Benfica",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "1750",
+    "final_answer": "Moscow Institute of Physics and Technology",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "763",
+    "final_answer": "NOW Legal Defense and Education Fund",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "2687",
+    "final_answer": "Crystal Palace",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   }
+  ]
+ },
+ "tempreason_l3__delta+eatr+natural.json::delta+eatr+natural": {
+  "n": 36,
+  "inclusion_acc": 0.8055555555555556,
+  "exact_match": 0.6666666666666666,
+  "judge_acc": 0.75,
+  "inclusion_but_judge_incorrect": 0.05555555555555555,
+  "rows": [
+   {
+    "question_id": "L3_Q3664162_P54_7",
+    "final_answer": "Libertas Livorno",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q93154_P108_2",
+    "final_answer": "University of Leeds",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q37631972_P108_3",
+    "final_answer": "University of Southampton",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "L3_Q93154_P108_3",
+    "final_answer": "University of Edinburgh",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q789233_P6_0",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "L3_Q218_P6_23",
+    "final_answer": "General Ion Antonescu",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "L3_Q1297_P6_38",
+    "final_answer": "Lester L. Bond was the head of Chicago before Harvey Doolittle Colvin.",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q16010_P6_38",
+    "final_answer": "Jules Schreiner",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q3664162_P54_9",
+    "final_answer": "Estudiantes de Bah\u00eda Blanca",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q193749_P286_68",
+    "final_answer": "Romeo Jozak",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q639560_P286_12",
+    "final_answer": "Dejan Rai\u010dkovi\u0107",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q329984_P6_11",
+    "final_answer": "Jos\u00e9 Robles Valenzuela",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q7710139_P54_3",
+    "final_answer": "PAS Giannina F.C.",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q476198_P69_1",
+    "final_answer": "\u00c9cole normale sup\u00e9rieure in Paris from January 1934 to January 1937",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q5236572_P39_1",
+    "final_answer": "Member of the 36th Parliament of the United Kingdom",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q1876896_P54_3",
+    "final_answer": "FC Admira Wacker M\u00f6dling",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q727532_P54_3",
+    "final_answer": "FC Tatab\u00e1nya",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q16010_P6_48",
+    "final_answer": "Vera Spautz",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q19498_P286_3",
+    "final_answer": "Garry Monk",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q329984_P6_9",
+    "final_answer": "Juan Pizarro Navarrete",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q329984_P6_7",
+    "final_answer": "Marcelino S\u00e1nchez Ruiz",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q40_P35_1",
+    "final_answer": "Wilhelm Miklas",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q8049681_P54_5",
+    "final_answer": "Moghavemat Tehran F.C.",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q23761984_P39_3",
+    "final_answer": "Member of the Eleventh Odisha Legislative Assembly from Mar, 1995, to Feb, 2000.",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q193749_P286_48",
+    "final_answer": "Wladyslaw Stachurski",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "L3_Q193749_P286_14",
+    "final_answer": "Ryszard Koncewicz",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "L3_Q1297_P6_44",
+    "final_answer": "John Patrick Hopkins",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "L3_Q7167581_P54_1",
+    "final_answer": "Blackburn Rovers F.C.",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q7795172_P108_1",
+    "final_answer": "University of Manchester",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q518959_P54_9",
+    "final_answer": "FC St. Gallen",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q1297_P6_53",
+    "final_answer": "George Bell Swift",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q2817362_P286_1",
+    "final_answer": "Igor Cherevchenko",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q1297_P6_5",
+    "final_answer": "Benjamin Wright Raymond",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q1782948_P488_13",
+    "final_answer": "Melvin N. Johnson",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "L3_Q22707_P286_4",
+    "final_answer": "Alfred Schreuder",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "L3_Q42724483_P69_1",
+    "final_answer": "Boston University",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,184 @@
+{
+  "complextr": {
+    "v1": {
+      "n": 329,
+      "anchored_rate": 1.0,
+      "keys_median": 28.0,
+      "events_median": 123.0,
+      "anchor_recall": 0.5714285714285714,
+      "source_chunks_median": 11.0,
+      "missed_examples": []
+    },
+    "strict": {
+      "n": 329,
+      "anchored_rate": 0.9331306990881459,
+      "keys_median": 2.0,
+      "events_median": 12.0,
+      "anchor_recall": 0.729483282674772,
+      "source_chunks_median": 1.0,
+      "missed_examples": [
+        {
+          "q": "Which employer did Gustav Ludwig Hertz work for in July 1923?",
+          "ents": [
+            "Gustav Ludwig Hertz"
+          ],
+          "keys": 0,
+          "events": 0,
+          "anchored": false,
+          "hit": false,
+          "n_src": 0,
+          "sample_keys": []
+        },
+        {
+          "q": "Which employer did Jeannette Young work for in February 2011?",
+          "ents": [
+            "Jeannette Young"
+          ],
+          "keys": 0,
+          "events": 0,
+          "anchored": false,
+          "hit": false,
+          "n_src": 0,
+          "sample_keys": []
+        },
+        {
+          "q": "Which employer did Tar\u014d Morishima work for in October 1954?",
+          "ents": [
+            "Tar\u014d Morishima"
+          ],
+          "keys": 0,
+          "events": 0,
+          "anchored": false,
+          "hit": false,
+          "n_src": 0,
+          "sample_keys": []
+        },
+        {
+          "q": "Which employer did Sergei Nikolajewitsch Tschernikow work for in March 1949?",
+          "ents": [
+            "Sergei Nikolajewitsch Tschernikow"
+          ],
+          "keys": 0,
+          "events": 0,
+          "anchored": false,
+          "hit": false,
+          "n_src": 0,
+          "sample_keys": []
+        },
+        {
+          "q": "Which employer did Sergei Nikolajewitsch Tschernikow work for in October 1957?",
+          "ents": [
+            "Sergei Nikolajewitsch Tschernikow"
+          ],
+          "keys": 0,
+          "events": 0,
+          "anchored": false,
+          "hit": false,
+          "n_src": 0,
+          "sample_keys": []
+        }
+      ]
+    }
+  },
+  "tempreason_l3": {
+    "v1": {
+      "n": 500,
+      "anchored_rate": 1.0,
+      "keys_median": 56.0,
+      "events_median": 1060.0,
+      "anchor_recall": 0.166,
+      "source_chunks_median": 22.0,
+      "missed_examples": []
+    },
+    "strict": {
+      "n": 500,
+      "anchored_rate": 1.0,
+      "keys_median": 4.0,
+      "events_median": 35.5,
+      "anchor_recall": 0.766,
+      "source_chunks_median": 8.0,
+      "missed_examples": []
+    }
+  },
+  "timeqa": {
+    "v1": {
+      "n": 2612,
+      "anchored_rate": 1.0,
+      "keys_median": 49.5,
+      "events_median": 701.0,
+      "anchor_recall": 0.5356049004594181,
+      "source_chunks_median": 15.0,
+      "missed_examples": []
+    },
+    "strict": {
+      "n": 2612,
+      "anchored_rate": 0.9330015313935681,
+      "keys_median": 2.0,
+      "events_median": 12.0,
+      "anchor_recall": 0.6638591117917305,
+      "source_chunks_median": 3.0,
+      "missed_examples": [
+        {
+          "q": "What operated Sydney Trains K set before Sep 2000?",
+          "ents": [
+            "Sydney Trains K"
+          ],
+          "keys": 0,
+          "events": 0,
+          "anchored": false,
+          "hit": false,
+          "n_src": 0,
+          "sample_keys": []
+        },
+        {
+          "q": "What operated Sydney Trains K set after Sep 2013?",
+          "ents": [
+            "Sydney Trains K set"
+          ],
+          "keys": 0,
+          "events": 0,
+          "anchored": false,
+          "hit": false,
+          "n_src": 0,
+          "sample_keys": []
+        },
+        {
+          "q": "Who owned Rock Crystal (Faberg\u00e9 egg) in early 1910s?",
+          "ents": [
+            "Rock Crystal (Faberg\u00e9 egg)"
+          ],
+          "keys": 0,
+          "events": 0,
+          "anchored": false,
+          "hit": false,
+          "n_src": 0,
+          "sample_keys": []
+        },
+        {
+          "q": "Who owned Rock Crystal (Faberg\u00e9 egg) between Oct 1945 and Dec 1946?",
+          "ents": [
+            "Rock Crystal (Faberg\u00e9 egg)"
+          ],
+          "keys": 0,
+          "events": 0,
+          "anchored": false,
+          "hit": false,
+          "n_src": 0,
+          "sample_keys": []
+        },
+        {
+          "q": "Who owned Rock Crystal (Faberg\u00e9 egg) after Jun 1947?",
+          "ents": [
+            "Rock Crystal (Faberg\u00e9 egg)"
+          ],
+          "keys": 0,
+          "events": 0,
+          "anchored": false,
+          "hit": false,
+          "n_src": 0,
+          "sample_keys": []
+        }
+      ]
+    }
+  }
+}

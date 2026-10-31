@@ -1,0 +1,2314 @@
+{
+ "complextr__delta+eatr_commit.json::delta+eatr_commit": {
+  "n": 329,
+  "inclusion_acc": 0.5957446808510638,
+  "exact_match": 0.3282674772036474,
+  "judge_acc": 0.4072948328267477,
+  "inclusion_but_judge_incorrect": 0.2066869300911854,
+  "rows": [
+   {
+    "question_id": "0",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "1",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "2",
+    "final_answer": "Estonian National Independence Party",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "3",
+    "final_answer": "University of G\u00f6ttingen",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "4",
+    "final_answer": "The University of Calgary",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "5",
+    "final_answer": "United Russia party",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "6",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "7",
+    "final_answer": "chair of the Independent Commission on the Voting System",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "8",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "9",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "10",
+    "final_answer": "Republican Left of Catalonia (ERC)",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "11",
+    "final_answer": "Federal University of Rio de Janeiro",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "12",
+    "final_answer": "The Christian Democrat (DC) party",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "13",
+    "final_answer": "Union of Christian and Centre Democrats (UDC)",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "14",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "15",
+    "final_answer": "Senior Vice President, Global Communications for Philip Morris International",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "16",
+    "final_answer": "Philip Morris International",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "17",
+    "final_answer": "Jean-Claude Sandrier",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "18",
+    "final_answer": "the political party encompassing elements of the French Communist Party (PCF) and related leftist parties",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "19",
+    "final_answer": "Catherine Middleton (Duchess of Cambridge)",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "20",
+    "final_answer": "Duke of Cambridge",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "21",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "22",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "23",
+    "final_answer": "Estonian Free Party",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "24",
+    "final_answer": "Ohio University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "25",
+    "final_answer": "Ohio Bobcats",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "26",
+    "final_answer": "Susan Mary Hornby",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "27",
+    "final_answer": "Vivien Leigh",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "28",
+    "final_answer": "The Atomic Energy Commission",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "29",
+    "final_answer": "Luigi Apolloni",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "30",
+    "final_answer": "Ural State University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "31",
+    "final_answer": "Perm State University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "32",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "33",
+    "final_answer": "The People of Freedom",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "34",
+    "final_answer": "University of Tennessee Space Institute",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "35",
+    "final_answer": "a secondary school in France",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "36",
+    "final_answer": "Stony Brook University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "37",
+    "final_answer": "Stony Brook University",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "38",
+    "final_answer": "Toyota Australia",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "39",
+    "final_answer": "Robyn Denholm was likely working at Juniper Networks or a related tech company",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "40",
+    "final_answer": "Juniper Networks",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "41",
+    "final_answer": "Technische Hochschule in Stuttgart",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "42",
+    "final_answer": "Houston, Texas",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "43",
+    "final_answer": "Minister of Justice",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "44",
+    "final_answer": "Conservative Party",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "45",
+    "final_answer": "Democrats of the Left",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "46",
+    "final_answer": "Kaiser Wilhelm Institute for Physics",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "47",
+    "final_answer": "\u00c9cole polytechnique",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "48",
+    "final_answer": "Hungarian Socialist Party",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "49",
+    "final_answer": "University of Groningen",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "50",
+    "final_answer": "University of Cambridge",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "51",
+    "final_answer": "Carlo Ancelotti",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "52",
+    "final_answer": "Luigi Apolloni",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "53",
+    "final_answer": "Luigi Apolloni",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "54",
+    "final_answer": "University of Marburg",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "55",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "56",
+    "final_answer": "University of Ia\u0219i",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "57",
+    "final_answer": "Metropolitan of Kyiv and all Ukraine",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "58",
+    "final_answer": "European Space Agency (ESA)",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "59",
+    "final_answer": "Luigi Apolloni",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "60",
+    "final_answer": "Stanford University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "61",
+    "final_answer": "Elon Musk was working for both Tesla, Inc. and SpaceX in December 2021.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "62",
+    "final_answer": "Bouygues T\u00e9l\u00e9com",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "63",
+    "final_answer": "Accor",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "64",
+    "final_answer": "University of Fribourg",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "65",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "66",
+    "final_answer": "G\u00e4vle University College",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "67",
+    "final_answer": "The Alternative",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "68",
+    "final_answer": "PAS",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "69",
+    "final_answer": "Nationalist Movement Party (MHP)",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "70",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "71",
+    "final_answer": "University of North Carolina",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "72",
+    "final_answer": "Estonian National Independence Party until 1992, and from 1995 to February 2005, he was affiliated with the Pro Patria Union and later the Pro Patria and Res Publica Union",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "73",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "74",
+    "final_answer": "Swansea University",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "75",
+    "final_answer": "King's College London",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "76",
+    "final_answer": "Technische Hochschule in Vienna",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "77",
+    "final_answer": "The University of Vienna",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "78",
+    "final_answer": "Hochschule f\u00fcr Musik und Theater M\u00fcnchen",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "79",
+    "final_answer": "Hochschule f\u00fcr Musik M\u00fcnchen in Munich",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "80",
+    "final_answer": "Roy Jenkins was instrumental in the formation of the Social Democratic Party (SDP) and was involved in political advocacy and campaigning from March 1980 to December 1982.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "81",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "82",
+    "final_answer": "From December 2016 to May 2017, Sarah Feinberg was employed by the Federal Railroad Administration (FRA). From February 2019 to July 2020, she worked as a member of the MTA Board, and from March 2020, she served as Interim President of the New York City Transit Authority.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "83",
+    "final_answer": "Sarah Feinberg held the positions of Administrator of the Federal Railroad Administration (June 2015 to May 2017), member of the MTA Board (February 2019 to March 2020), Interim President of the New York City Transit Authority (March 2020 to July 2022), and Chairperson of the MTA (June 2021 to July 2022) from May 2014 to July 2022.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "84",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "85",
+    "final_answer": "Union of Christian and Centre Democrats (UDC)",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "86",
+    "final_answer": "Salvatore Cuffaro was associated with the House of Freedoms and its main constituent party, Forza Italia, from August 2001 to July 2010.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "87",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "88",
+    "final_answer": "Philip Morris International",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "89",
+    "final_answer": "Erik Meijer was affiliated with the Pacifist Socialist Party (PSP) from March 1972 to May 1992.",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "90",
+    "final_answer": "McGill University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "91",
+    "final_answer": "Patricia \"Pat\" Holt Coyle and her predecessor likely in the timeline between 1997-2002.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "92",
+    "final_answer": "Ohio University",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "93",
+    "final_answer": "Johnnetta B. Cole worked as the president of Bennett College from March 2000 to November 2003.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "94",
+    "final_answer": "Luigi Apolloni",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "95",
+    "final_answer": "Mt. Zion Preparatory School in Baltimore, Maryland",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "96",
+    "final_answer": "Mt. Zion Preparatory School",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "97",
+    "final_answer": "Royal Military College",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "98",
+    "final_answer": "Nicholas de Roumanie-Medforth-Mills was educated at Argyle House School from May 1993 to April 1999 and then at Shiplake College, Henley-on-Thames, from 1999 to November 2001.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "99",
+    "final_answer": "Timothy D. Snyder was educated at Brown University from March 1987 to November 1994.",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "100",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "101",
+    "final_answer": "\u00c5ke Pleijel worked as Professor of Mathematics at Uppsala University from September 1940 to March 1947.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "102",
+    "final_answer": "Portland State University (1964-1970) and Howard University (1972-1973)",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "103",
+    "final_answer": "Salt Lake Community College",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "104",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "105",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "106",
+    "final_answer": "University of Manchester",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "107",
+    "final_answer": "University of Reading, University of Wales Institute of Science and Technology (now Cardiff University), and University of Waterloo, Ontario",
+    "em": 1,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "108",
+    "final_answer": "University of Szeged",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "109",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "110",
+    "final_answer": "Roberto Donadoni and several unnamed coaches managed Parma Calcio 1913 from June 2007 to October 2020.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "111",
+    "final_answer": "Luigi Apolloni",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "112",
+    "final_answer": "University of Missouri",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "113",
+    "final_answer": "Gheorghe Vr\u0103nceanu was preparing to depart for the University of G\u00f6ttingen in Germany but was essentially still in Romania from June 1922 to June 1923.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "114",
+    "final_answer": "Sampdoria and Lazio for a brief loan period between January and the end of 2005, then returned to Sampdoria until signing with Brescia Calcio on June 14, 2007.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "115",
+    "final_answer": "Brescia Calcio",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "116",
+    "final_answer": "Bouygues T\u00e9l\u00e9com from 2004 to 2006 and Accor from 2006 to 2009",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "117",
+    "final_answer": "Forza Italia",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "118",
+    "final_answer": "\u00c9cole Centrale Paris",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "119",
+    "final_answer": "Princeton University",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "120",
+    "final_answer": "Nationalist Movement Party (MHP)",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "121",
+    "final_answer": "Leiden University",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "122",
+    "final_answer": "Copenhagen",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "123",
+    "final_answer": "University of Leiden",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "124",
+    "final_answer": "University of Halle",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "125",
+    "final_answer": "The Soviet Union",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "126",
+    "final_answer": "Harold L. Ickes",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "127",
+    "final_answer": "Llandysul County School",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "128",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "129",
+    "final_answer": "University of Zurich",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "130",
+    "final_answer": "Complutense University of Madrid",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "131",
+    "final_answer": "Volt Europa",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "132",
+    "final_answer": "University of Bayreuth",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "133",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "134",
+    "final_answer": "Senior Vice President, Global Communications for Philip Morris International",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "135",
+    "final_answer": "Senior Vice President, Global Communications for Philip Morris International",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "136",
+    "final_answer": "Levi Strauss & Co.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "137",
+    "final_answer": "Philip Morris International",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "138",
+    "final_answer": "CEO of Havas PR North America",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "139",
+    "final_answer": "Wetherby School",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "140",
+    "final_answer": "University of Edinburgh (Moray House School of Education)",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "141",
+    "final_answer": "Cornell University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "142",
+    "final_answer": "PSP (Pacifist Socialist Party)",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "143",
+    "final_answer": "Russian Social Democratic Labour Party",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "144",
+    "final_answer": "Institute for Advanced Study",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "145",
+    "final_answer": "United States military consultancies",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "146",
+    "final_answer": "Bennett College for Women",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "147",
+    "final_answer": "Fisk University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "148",
+    "final_answer": "Nevio Scala",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "149",
+    "final_answer": "Mt. Zion Preparatory School",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "150",
+    "final_answer": "Forza Italia",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "151",
+    "final_answer": "Alina Maria Binder",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "152",
+    "final_answer": "Stony Brook University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "153",
+    "final_answer": "First Lady of Peru",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "154",
+    "final_answer": "Stony Brook University",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "155",
+    "final_answer": "Juniper Networks",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "156",
+    "final_answer": "Juniper Networks",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "157",
+    "final_answer": "University of Amsterdam",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "158",
+    "final_answer": "Stockholm University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "159",
+    "final_answer": "Uppsala University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "160",
+    "final_answer": "University of Leipzig",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "161",
+    "final_answer": "Speaker of the National Assembly of Hungary",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "162",
+    "final_answer": "UPyD",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "163",
+    "final_answer": "Deputy Minister of Energy of the Russian Federation",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "164",
+    "final_answer": "University of Manchester",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "165",
+    "final_answer": "University of Szeged",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "166",
+    "final_answer": "Carlo Ancelotti",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "167",
+    "final_answer": "not affiliated with any political party",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "168",
+    "final_answer": "ESPN",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "169",
+    "final_answer": "University of Missouri in Columbia, Missouri",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "170",
+    "final_answer": "Sampdoria",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "171",
+    "final_answer": "University of Amsterdam",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "172",
+    "final_answer": "University of Amsterdam",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "173",
+    "final_answer": "Croatian Social Liberal Party (HSLS)",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "174",
+    "final_answer": "Malaysian Islamic Party (PAS)",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "175",
+    "final_answer": "University of Kansas",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "176",
+    "final_answer": "University of Szeged in Hungary",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "177",
+    "final_answer": "Rutgers University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "178",
+    "final_answer": "Estonian Free Party",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "179",
+    "final_answer": "professor at Melbourne University",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "180",
+    "final_answer": "Kyra Aslin",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "181",
+    "final_answer": "Harold L. Ickes",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "182",
+    "final_answer": "South Division High School and the University of Chicago",
+    "em": 1,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "183",
+    "final_answer": "Swansea University and Rome",
+    "em": 1,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "184",
+    "final_answer": "Aberystwyth University and Swansea University",
+    "em": 1,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "185",
+    "final_answer": "King's College London",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "186",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "187",
+    "final_answer": "Freiburg University",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "188",
+    "final_answer": "Pro Patria Union (later called Pro Patria and Res Publica Union)",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "189",
+    "final_answer": "Amtrak",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "190",
+    "final_answer": "University of Tennessee",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "191",
+    "final_answer": "Bia\u0142ystok",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "192",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "193",
+    "final_answer": "Joseph Tsai",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "194",
+    "final_answer": "William Wesley Laimbeer",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "195",
+    "final_answer": "The Communist Party of the Soviet Union",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "196",
+    "final_answer": "Fort Scott Community College",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "197",
+    "final_answer": "Central Intelligence Agency (CIA)",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "198",
+    "final_answer": "University of Massachusetts Amherst",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "199",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "200",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "201",
+    "final_answer": "Beate Meinl-Reisinger was educated at the Wasagasse grammar school, the University of Vienna, and Danube University Krems, where she completed a Masters in European Studies.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "202",
+    "final_answer": "Obi Toppin was educated at Ossining High School and then completed a postgraduate year at Mt. Zion Preparatory School before playing for the Dayton Flyers men's basketball team.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "203",
+    "final_answer": "Columbia University",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "204",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "205",
+    "final_answer": "Milton District High School and Royal Military College",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "206",
+    "final_answer": "bureau chief for \u201c\u00e9tudes g\u00e9n\u00e9rales\u201d at DPMAT",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "207",
+    "final_answer": "Sun Microsystems (and subsequently Juniper Networks)",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "208",
+    "final_answer": "Toyota Australia",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "209",
+    "final_answer": "Sun Microsystems",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "210",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "211",
+    "final_answer": "Federal University of Rio de Janeiro",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "212",
+    "final_answer": "University of Vienna",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "213",
+    "final_answer": "Gustavo Alatriste",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "214",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "215",
+    "final_answer": "Portland State University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "216",
+    "final_answer": "The city of Atlanta, Georgia",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "217",
+    "final_answer": "Georg Benjamin",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "218",
+    "final_answer": "Spring Valley High School and Westwind Preparatory Academy",
+    "em": 1,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "219",
+    "final_answer": "Gary Payton II was educated at Westwind Preparatory Academy and Salt Lake Community College before playing for Oregon State Beavers men's basketball.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "220",
+    "final_answer": "Max Planck Institute for Physics",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "221",
+    "final_answer": "\u00c9cole polytechnique and \u00c9cole des mines",
+    "em": 1,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "222",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "223",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "224",
+    "final_answer": "Berlin, Germany",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "225",
+    "final_answer": "Deputy Minister of Energy of Russia",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "226",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "227",
+    "final_answer": "Sylvia Wynter",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "228",
+    "final_answer": "Northwestern University",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "229",
+    "final_answer": "Lincoln University",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "230",
+    "final_answer": "governor of Jakarta",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "231",
+    "final_answer": "Golkar",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "232",
+    "final_answer": "University of Cambridge",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "233",
+    "final_answer": "Acad\u00e9mie Colarossi in Paris from 1903\u20131904",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "234",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "235",
+    "final_answer": "Sports Illustrated",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "236",
+    "final_answer": "University of Bucharest",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "237",
+    "final_answer": "University of Science and Technology of China",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "238",
+    "final_answer": "Bouygues T\u00e9l\u00e9com",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "239",
+    "final_answer": "Accor",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "240",
+    "final_answer": "University of Pretoria, the University of Cape Town, and the University of Oxford",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "241",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "242",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "243",
+    "final_answer": "Nationalist Movement Party (MHP)",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "244",
+    "final_answer": "Jo\u00eblle Elvinger received her master's degree in business law from Paul C\u00e9zanne University in Marseille and a Master of Laws at Queen Mary University of London.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "245",
+    "final_answer": "Citizen and Republican Movement",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "246",
+    "final_answer": "Crown Prince Frederik of Denmark",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "247",
+    "final_answer": "Stoke Newington School and Sixth Form",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "248",
+    "final_answer": "Rutgers University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "249",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "250",
+    "final_answer": "Member of the House of Lords and leader of the Liberal Democrats within the House of Lords from 1988 until 1997.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "251",
+    "final_answer": "Luisa Mar\u00eda Cuculiza was a member of the Congress of the Republic of Peru as part of the \"Alliance for the Future\" party from 2006 to 2011, and then as part of the \"Fuerza 2011\" party from 2011 to 2016.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "252",
+    "final_answer": "CEO at Havas PR North America",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "253",
+    "final_answer": "Euro RSCG",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "254",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "255",
+    "final_answer": "Philip Morris International",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "256",
+    "final_answer": "William Wesley Laimbeer",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "257",
+    "final_answer": "Estonian Free Party",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "258",
+    "final_answer": "General Secretary of the Communist Party of the Soviet Union",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "259",
+    "final_answer": "John von Neumann was employed on military consultancies and specifically contributed to the Manhattan Project during the period of his marriage to Klara Dan von Neumann.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "260",
+    "final_answer": "University of Amsterdam",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "261",
+    "final_answer": "Boston University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "262",
+    "final_answer": "Institutional Revolutionary Party (PRI)",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "263",
+    "final_answer": "Stockholm University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "264",
+    "final_answer": "Minister of Justice and Member of the Central Committee of the SED",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "265",
+    "final_answer": "Oregon State University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "266",
+    "final_answer": "Oregon State Beavers men's basketball",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "267",
+    "final_answer": "The Hungarian Socialist Party",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "268",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "269",
+    "final_answer": "Accor",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "270",
+    "final_answer": "Renato Brunetta was a member of Forza Italia, which is part of the European People's Party, during his tenure in the European Parliament from 2004 to 2009.",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "271",
+    "final_answer": "HSLS (Hrvatski socijalni liberalni savez)",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "272",
+    "final_answer": "Croatian Social Liberal Party (HSLS)",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "273",
+    "final_answer": "True Path Party (DYP)",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "274",
+    "final_answer": "University of Utrecht",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "275",
+    "final_answer": "Leiden University",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "276",
+    "final_answer": "Shahidul Jahir was educated at Dhaka College and Dhaka University in the early 1970s for his undergraduate studies and completed his master's degree at Dhaka University.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "277",
+    "final_answer": "University of Music Freiburg",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "278",
+    "final_answer": "Hochschule f\u00fcr Musik Karlsruhe",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "279",
+    "final_answer": "University of Halle",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "280",
+    "final_answer": "Complutense University of Madrid",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "281",
+    "final_answer": "Complutense University of Madrid",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "282",
+    "final_answer": "Complutense University of Madrid",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "283",
+    "final_answer": "Complutense University of Madrid",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "284",
+    "final_answer": "Aloisiuskolleg in Bad Godesberg",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "285",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "286",
+    "final_answer": "Warsaw",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "287",
+    "final_answer": "Senior Vice President, Global Communications for Philip Morris International.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "288",
+    "final_answer": "Executive Vice President, Chief Strategic Officer at Euro RSCG",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "289",
+    "final_answer": "Edgewood Academy in Elmore, Alabama",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "290",
+    "final_answer": "Institute for Advanced Study",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "291",
+    "final_answer": "Institute for Advanced Study (IAS)",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "292",
+    "final_answer": "Harvard University",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "293",
+    "final_answer": "Hunter College",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "294",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "295",
+    "final_answer": "El Potro \u00c1lvarez was married to a former beauty queen before he married Dayana Colmenares, most likely before 1967 according to the evidence provided.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "296",
+    "final_answer": "Member of Parliament",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "297",
+    "final_answer": "Shadow Chancellor of the Exchequer",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "298",
+    "final_answer": "Forza Italia",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "299",
+    "final_answer": "Cornell University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "300",
+    "final_answer": "University of Notre Dame",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "301",
+    "final_answer": "University of Notre Dame",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "302",
+    "final_answer": "Institutional Revolutionary Party",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "303",
+    "final_answer": "Stockholm University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "304",
+    "final_answer": "Portland State University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "305",
+    "final_answer": "Hungarian Socialist Party",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "306",
+    "final_answer": "Democratic Choice",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "307",
+    "final_answer": "William Alonso Prize",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "308",
+    "final_answer": "University of Reading",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "309",
+    "final_answer": "Semmelweis University",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "310",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "311",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "312",
+    "final_answer": "The University of G\u00f6ttingen",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "313",
+    "final_answer": "CNES",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "314",
+    "final_answer": "SPAL",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "315",
+    "final_answer": "Sampdoria",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "316",
+    "final_answer": "SpaceX",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "317",
+    "final_answer": "Justine Musk",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "318",
+    "final_answer": "SpaceX",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "319",
+    "final_answer": "University of Cape Town",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "320",
+    "final_answer": "Jessica Stegrud was educated at Karlstad University from 1989 to 1991 and at Gavle University College from 1991 to 1993.",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "321",
+    "final_answer": "Hebrew University of Jerusalem",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "322",
+    "final_answer": "University of Leeds",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "323",
+    "final_answer": "PAS",
+    "em": 0,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "324",
+    "final_answer": "NONE",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   },
+   {
+    "question_id": "325",
+    "final_answer": "University of Szeged",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "326",
+    "final_answer": "Dominique Cabrera",
+    "em": 1,
+    "judge": 1,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "327",
+    "final_answer": "Taroona High School and beginning matriculation at Hobart College",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 1.0
+   },
+   {
+    "question_id": "328",
+    "final_answer": "University of North Carolina, Chapel Hill",
+    "em": 0,
+    "judge": 0,
+    "inclusion": 0.0
+   }
+  ]
+ }
+}

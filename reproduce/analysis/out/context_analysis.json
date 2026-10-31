@@ -1,0 +1,262 @@
+{
+ "complextr": {
+  "systems": {
+   "DELTA-RAG": {
+    "n": 329,
+    "tokens_median": 13349.0,
+    "tokens_p95": 14343.599999999999,
+    "tokens_max": 14834,
+    "events_median": 34.0,
+    "chunks_median": 12.0
+   },
+   "DELTA-RAG - EATR": {
+    "n": 329,
+    "tokens_median": 13177.0,
+    "tokens_p95": 14017.0,
+    "tokens_max": 14158,
+    "events_median": 30.0,
+    "chunks_median": 12.0
+   },
+   "EATR only": {
+    "n": 329,
+    "tokens_median": 13591.0,
+    "tokens_p95": 14884.199999999999,
+    "tokens_max": 15629,
+    "events_median": 40.0,
+    "chunks_median": 12.0
+   },
+   "NaiveRAG": {
+    "n": 329,
+    "tokens_median": 11623.0,
+    "tokens_p95": 12140.6,
+    "tokens_max": 12195
+   }
+  },
+  "position": {
+   "1-5": {
+    "n": 251,
+    "acc": 0.7529880478087649
+   },
+   "6-10": {
+    "n": 8,
+    "acc": 0.125
+   },
+   "11-15": {
+    "n": 2,
+    "acc": 0.5
+   },
+   "16-20": {
+    "n": 0,
+    "acc": null
+   },
+   "not in chunks": {
+    "n": 68,
+    "acc": 0.04411764705882353
+   }
+  },
+  "length_quartiles": {
+   "Q1": {
+    "n": 83,
+    "range": [
+     4624,
+     11421
+    ],
+    "acc": 0.5662650602409639
+   },
+   "Q2": {
+    "n": 82,
+    "range": [
+     11472,
+     13349
+    ],
+    "acc": 0.6097560975609756
+   },
+   "Q3": {
+    "n": 82,
+    "range": [
+     13353,
+     13876
+    ],
+    "acc": 0.5853658536585366
+   },
+   "Q4": {
+    "n": 82,
+    "range": [
+     13881,
+     14834
+    ],
+    "acc": 0.5975609756097561
+   }
+  },
+  "eatr_added_tokens_median": 99.0,
+  "gold_in_context": 0.7933130699088146
+ },
+ "tempreason_l3": {
+  "systems": {
+   "DELTA-RAG": {
+    "n": 500,
+    "tokens_median": 13552.0,
+    "tokens_p95": 14439.449999999999,
+    "tokens_max": 14839,
+    "events_median": 42.0,
+    "chunks_median": 16.5
+   },
+   "DELTA-RAG - EATR": {
+    "n": 500,
+    "tokens_median": 12788.5,
+    "tokens_p95": 13969.0,
+    "tokens_max": 14172,
+    "events_median": 30.0,
+    "chunks_median": 15.0
+   },
+   "EATR only": {
+    "n": 500,
+    "tokens_median": 13020.0,
+    "tokens_p95": 14223.55,
+    "tokens_max": 14594,
+    "events_median": 38.0,
+    "chunks_median": 15.0
+   },
+   "NaiveRAG": {
+    "n": 500,
+    "tokens_median": 11327.5,
+    "tokens_p95": 12146.15,
+    "tokens_max": 12208
+   }
+  },
+  "position": {
+   "1-5": {
+    "n": 469,
+    "acc": 0.8528784648187633
+   },
+   "6-10": {
+    "n": 16,
+    "acc": 0.6875
+   },
+   "11-15": {
+    "n": 5,
+    "acc": 0.6
+   },
+   "16-20": {
+    "n": 1,
+    "acc": 0.0
+   },
+   "not in chunks": {
+    "n": 9,
+    "acc": 0.1111111111111111
+   }
+  },
+  "length_quartiles": {
+   "Q1": {
+    "n": 125,
+    "range": [
+     3660,
+     11508
+    ],
+    "acc": 0.84
+   },
+   "Q2": {
+    "n": 125,
+    "range": [
+     11612,
+     13550
+    ],
+    "acc": 0.872
+   },
+   "Q3": {
+    "n": 125,
+    "range": [
+     13554,
+     13988
+    ],
+    "acc": 0.8
+   },
+   "Q4": {
+    "n": 125,
+    "range": [
+     13997,
+     14839
+    ],
+    "acc": 0.808
+   }
+  },
+  "eatr_added_tokens_median": 554.5,
+  "gold_in_context": 0.986
+ },
+ "timeqa": {
+  "systems": {
+   "DELTA-RAG": {
+    "n": 2613,
+    "tokens_median": 13440.0,
+    "tokens_p95": 14390.4,
+    "tokens_max": 14856,
+    "events_median": 37.0,
+    "chunks_median": 16.0
+   },
+   "NaiveRAG": {
+    "n": 2613,
+    "tokens_median": 11679.0,
+    "tokens_p95": 12161.4,
+    "tokens_max": 12228
+   }
+  },
+  "position": {
+   "1-5": {
+    "n": 2052,
+    "acc": 0.7188109161793372
+   },
+   "6-10": {
+    "n": 165,
+    "acc": 0.6121212121212121
+   },
+   "11-15": {
+    "n": 44,
+    "acc": 0.5681818181818182
+   },
+   "16-20": {
+    "n": 10,
+    "acc": 0.2
+   },
+   "not in chunks": {
+    "n": 342,
+    "acc": 0.038011695906432746
+   }
+  },
+  "length_quartiles": {
+   "Q1": {
+    "n": 654,
+    "range": [
+     4616,
+     12266
+    ],
+    "acc": 0.6987767584097859
+   },
+   "Q2": {
+    "n": 653,
+    "range": [
+     12267,
+     13440
+    ],
+    "acc": 0.6385911179173047
+   },
+   "Q3": {
+    "n": 655,
+    "range": [
+     13442,
+     13932
+    ],
+    "acc": 0.5740458015267176
+   },
+   "Q4": {
+    "n": 651,
+    "range": [
+     13933,
+     14856
+    ],
+    "acc": 0.5622119815668203
+   }
+  },
+  "eatr_added_tokens_median": null,
+  "gold_in_context": 0.8725602755453502
+ }
+}

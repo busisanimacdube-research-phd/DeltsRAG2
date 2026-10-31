@@ -1,0 +1,36 @@
+{
+  "n_events": 3157,
+  "n_dated": 1988,
+  "temporal_weight": 2.0,
+  "span_from_core_only": true,
+  "dbcv_by_min_cluster_size": {
+    "3": 0.18960125281429957,
+    "5": 0.18912148789803426,
+    "7": 0.18912148789803426,
+    "10": 0.18832923199743443
+  },
+  "min_cluster_size": 3,
+  "n_tkps": 6,
+  "tkp_size_median": 9.0,
+  "n_noise": 12,
+  "noise_frac": 0.003801076971808679,
+  "span_years_median": 1.667385367256001,
+  "span_years_p90": 81.06230791871155,
+  "noise_span_inflation_years_mean": 10.831707701047934,
+  "noise_span_inflation_years_max": 28.085450077688108,
+  "tkps_inflated_by_noise": 3,
+  "semantic_coherence_mean": 0.6817146341005961,
+  "cpkb": {
+    "total_bridges": 35,
+    "partition_pairs_bridged": 13,
+    "avg_bridge_weight": 0.22929011298742616,
+    "min_bridge_weight": 1.5111926551651807e-41,
+    "max_bridge_weight": 0.7443423718214035,
+    "bridges_with_shared_entities": 32,
+    "bridges_without_shared_entities": 3
+  },
+  "cpkb_candidates_above_threshold": 3445,
+  "bridge_gap_years_median": 18.20845054997707,
+  "bridge_gap_years_max": 51.412417777230196,
+  "bridges_between_dated": 22
+}

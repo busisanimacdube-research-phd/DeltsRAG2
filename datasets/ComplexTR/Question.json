@@ -1,0 +1,1647 @@
+[
+  {
+    "id": 0,
+    "question": "Which employer did Hans Kramers work for in October 1920?",
+    "answer": "University of Copenhagen"
+  },
+  {
+    "id": 1,
+    "question": "Which employer did Hans Kramers work for in September 1931?",
+    "answer": "Utrecht University"
+  },
+  {
+    "id": 2,
+    "question": "Which political party did Jüri Adams belong to in September 1992?",
+    "answer": "Estonian National Independence Party"
+  },
+  {
+    "id": 3,
+    "question": "Which employer did Gustav Ludwig Hertz work for in July 1923?",
+    "answer": "Philips"
+  },
+  {
+    "id": 4,
+    "question": "Which employer did Evan Tom Davies work for in April 1971?",
+    "answer": "University of Waterloo"
+  },
+  {
+    "id": 5,
+    "question": "Which political party did Aleksandr Dugin belong to in November 2013?",
+    "answer": "Eurasia Party"
+  },
+  {
+    "id": 6,
+    "question": "Which employer did Jeannette Young work for in February 2011?",
+    "answer": "Queensland Health"
+  },
+  {
+    "id": 7,
+    "question": "Which position did Roy Jenkins hold in April 1998?",
+    "answer": "Chancellor of the University of Oxford"
+  },
+  {
+    "id": 8,
+    "question": "Where was Elisa Granato educated in March 2016?",
+    "answer": "University of Zurich"
+  },
+  {
+    "id": 9,
+    "question": "Which political party did Kersti Kaljulaid belong to in October 2003?",
+    "answer": "Pro Patria Union"
+  },
+  {
+    "id": 10,
+    "question": "Which political party did Josep-Lluís Carod-Rovira belong to in September 2004?",
+    "answer": "Republican Left of Catalonia"
+  },
+  {
+    "id": 11,
+    "question": "Which employer did Carlos Bertulani work for in April 1990?",
+    "answer": "Federal University of Rio de Janeiro"
+  },
+  {
+    "id": 12,
+    "question": "Which political party did Salvatore Cuffaro belong to in May 1994?",
+    "answer": "Italian People's Party"
+  },
+  {
+    "id": 13,
+    "question": "Which political party did Salvatore Cuffaro belong to in February 2001?",
+    "answer": "United Christian Democrats"
+  },
+  {
+    "id": 14,
+    "question": "Which political party did Jacqui Lambie belong to in November 2011?",
+    "answer": "Liberal Party of Australia"
+  },
+  {
+    "id": 15,
+    "question": "Which position did Marian Salzman hold in November 2008?",
+    "answer": "chief marketing officer"
+  },
+  {
+    "id": 16,
+    "question": "Which employer did Marian Salzman work for in March 2020?",
+    "answer": "Philip Morris International"
+  },
+  {
+    "id": 17,
+    "question": "Who was the chair of Democratic and Republican Left in December 2011?",
+    "answer": "Roland Muzeau"
+  },
+  {
+    "id": 18,
+    "question": "Which political party did Democratic and Republican Left belong to in August 2021?",
+    "answer": "French Communist Party"
+  },
+  {
+    "id": 19,
+    "question": "Who was the spouse of Prince William, Duke of Cambridge in February 2015?",
+    "answer": "Catherine, Duchess of Cambridge"
+  },
+  {
+    "id": 20,
+    "question": "Which position did Prince William, Duke of Cambridge hold in October 2022?",
+    "answer": "heir apparent"
+  },
+  {
+    "id": 21,
+    "question": "Where was David Kennedy Fraser educated in August 1913?",
+    "answer": "Cornell University"
+  },
+  {
+    "id": 22,
+    "question": "Which employer did Tarō Morishima work for in October 1954?",
+    "answer": "University of Tokyo"
+  },
+  {
+    "id": 23,
+    "question": "Which political party did Andres Ammas belong to in February 2015?",
+    "answer": "Estonian Free Party"
+  },
+  {
+    "id": 24,
+    "question": "Where was Nathan Rourke educated in June 2017?",
+    "answer": "Ohio University"
+  },
+  {
+    "id": 25,
+    "question": "Which team did Nathan Rourke play for in February 2018?",
+    "answer": "Ohio Bobcats football"
+  },
+  {
+    "id": 26,
+    "question": "Who was the spouse of John Spencer-Churchill, 11th Duke of Marlborough in May 1958?",
+    "answer": "Susan Hornby"
+  },
+  {
+    "id": 27,
+    "question": "Who was the spouse of Laurence Olivier in December 1947?",
+    "answer": "Vivien Leigh"
+  },
+  {
+    "id": 28,
+    "question": "Which employer did John von Neumann work for in April 1955?",
+    "answer": "Institute for Advanced Study"
+  },
+  {
+    "id": 29,
+    "question": "Who was the head coach of FC Dinamo Minsk in March 2023?",
+    "answer": "Vadim Skripchenko"
+  },
+  {
+    "id": 30,
+    "question": "Which employer did Sergei Nikolajewitsch Tschernikow work for in March 1949?",
+    "answer": "Ural State University"
+  },
+  {
+    "id": 31,
+    "question": "Which employer did Sergei Nikolajewitsch Tschernikow work for in October 1957?",
+    "answer": "Perm State University"
+  },
+  {
+    "id": 32,
+    "question": "Where was Beate Meinl-Reisinger educated in September 2002?",
+    "answer": "Danube University Krems"
+  },
+  {
+    "id": 33,
+    "question": "Which political party did Fabrizio Cicchitto belong to in July 2010?",
+    "answer": "The People of Freedom"
+  },
+  {
+    "id": 34,
+    "question": "Where was Chris Hadfield educated in April 1990?",
+    "answer": "University of Tennessee Space Institute"
+  },
+  {
+    "id": 35,
+    "question": "Where was Jean-Pierre Bosser educated in July 1976?",
+    "answer": "Lycée militaire de Saint-Cyr"
+  },
+  {
+    "id": 36,
+    "question": "Where was Keiko Fujimori educated in May 1993?",
+    "answer": "Stony Brook University"
+  },
+  {
+    "id": 37,
+    "question": "Where was Keiko Fujimori educated in June 1995?",
+    "answer": "Boston University"
+  },
+  {
+    "id": 38,
+    "question": "Which employer did Robyn Denholm work for in August 1988?",
+    "answer": "Arthur Andersen"
+  },
+  {
+    "id": 39,
+    "question": "Which employer did Robyn Denholm work for in December 2006?",
+    "answer": "Sun Microsystems"
+  },
+  {
+    "id": 40,
+    "question": "Which employer did Robyn Denholm work for in September 2009?",
+    "answer": "Juniper Networks"
+  },
+  {
+    "id": 41,
+    "question": "Which employer did Hans Bethe work for in February 1932?",
+    "answer": "University of Tübingen"
+  },
+  {
+    "id": 42,
+    "question": "Which employer did Lee Patrick Brown work for in August 1988?",
+    "answer": "Houston Police Department"
+  },
+  {
+    "id": 43,
+    "question": "Which position did Hilde Benjamin hold in June 1964?",
+    "answer": "member of the Volkskammer"
+  },
+  {
+    "id": 44,
+    "question": "Which political party did Cristian Popescu Piedone belong to in February 2011?",
+    "answer": "National Union for the Progress of Romania"
+  },
+  {
+    "id": 45,
+    "question": "Which political party did Flavio Zanonato belong to in June 1998?",
+    "answer": "Democrats of the Left"
+  },
+  {
+    "id": 46,
+    "question": "Which employer did Werner Heisenberg work for in February 1940?",
+    "answer": "Leipzig University"
+  },
+  {
+    "id": 47,
+    "question": "Where was Jacques Attali educated in November 1963?",
+    "answer": "École polytechnique"
+  },
+  {
+    "id": 48,
+    "question": "Which political party did Mátyás Szűrös belong to in June 1997?",
+    "answer": "Hungarian Socialist Party"
+  },
+  {
+    "id": 49,
+    "question": "Which employer did Albert Szent-Györgyi work for in October 1925?",
+    "answer": "University of Groningen"
+  },
+  {
+    "id": 50,
+    "question": "Which employer did Albert Szent-Györgyi work for in August 1929?",
+    "answer": "Fitzwilliam College"
+  },
+  {
+    "id": 51,
+    "question": "Who was the head coach of Parma Calcio 1913 in August 1997?",
+    "answer": "Carlo Ancelotti"
+  },
+  {
+    "id": 52,
+    "question": "Who was the head coach of Parma Calcio 1913 in July 2021?",
+    "answer": "Enzo Maresca"
+  },
+  {
+    "id": 53,
+    "question": "Who was the head coach of Parma Calcio 1913 in April 2023?",
+    "answer": "Fabio Pecchia"
+  },
+  {
+    "id": 54,
+    "question": "Which employer did Abraham Fraenkel work for in August 1925?",
+    "answer": "University of Marburg"
+  },
+  {
+    "id": 55,
+    "question": "Where was Pat Forde educated in January 1981?",
+    "answer": "Air Academy High School"
+  },
+  {
+    "id": 56,
+    "question": "Where was Gheorghe Vrănceanu educated in June 1920?",
+    "answer": "Alexandru Ioan Cuza University"
+  },
+  {
+    "id": 57,
+    "question": "Which position did Epiphanius I hold in January 2021?",
+    "answer": "Metropolitan of Kyiv and all Ukraine"
+  },
+  {
+    "id": 58,
+    "question": "Which employer did Thomas Pesquet work for in October 2009?",
+    "answer": "European Space Agency"
+  },
+  {
+    "id": 59,
+    "question": "Who was the head coach of Valenciennes F.C. in November 2021?",
+    "answer": "Olivier Guégan"
+  },
+  {
+    "id": 60,
+    "question": "Where was Jiankui He educated in July 2011?",
+    "answer": "Stanford University"
+  },
+  {
+    "id": 61,
+    "question": "Which employer did Elon Musk work for in December 2021?",
+    "answer": "SpaceX"
+  },
+  {
+    "id": 62,
+    "question": "Which employer did Gilles Pélisson work for in April 2002?",
+    "answer": "Bouygues Telecom"
+  },
+  {
+    "id": 63,
+    "question": "Which employer did Gilles Pélisson work for in April 2006?",
+    "answer": "Accor"
+  },
+  {
+    "id": 64,
+    "question": "Which employer did Johannes van der Corput work for in August 1922?",
+    "answer": "University of Fribourg"
+  },
+  {
+    "id": 65,
+    "question": "Who was the spouse of Hugh Fortescue, 2nd Earl Fortescue in October 1823?",
+    "answer": "Lady Susan Ryder"
+  },
+  {
+    "id": 66,
+    "question": "Where was Jessica Stegrud educated in April 1993?",
+    "answer": "University of Angers"
+  },
+  {
+    "id": 67,
+    "question": "Which political party did Theresa Scavenius belong to in July 2019?",
+    "answer": "The Alternative"
+  },
+  {
+    "id": 68,
+    "question": "Which political party did Khairuddin Razali belong to in February 2023?",
+    "answer": "independent politician"
+  },
+  {
+    "id": 69,
+    "question": "Which political party did Meral Akşener belong to in February 2004?",
+    "answer": "Nationalist Movement Party"
+  },
+  {
+    "id": 70,
+    "question": "Which political party did Didier Motchane belong to in June 2011?",
+    "answer": "Citizen and Republican Movement"
+  },
+  {
+    "id": 71,
+    "question": "Where was Lotte Wubben-Moy educated in March 2018?",
+    "answer": "University of North Carolina at Chapel Hill"
+  },
+  {
+    "id": 72,
+    "question": "Which political parties did Jüri Adams belong to from September 1991 to February 2005?",
+    "answer": "Estonian National Independence Party"
+  },
+  {
+    "id": 73,
+    "question": "Which employers did Gustav Ludwig Hertz work for from September 1929 to May 1960?",
+    "answer": "Technical University of Berlin"
+  },
+  {
+    "id": 74,
+    "question": "Where were Evan Tom Davies educated from May 1922 to January 1924?",
+    "answer": "Aberystwyth University"
+  },
+  {
+    "id": 75,
+    "question": "Which employers did Evan Tom Davies work for from April 1937 to August 1952?",
+    "answer": "King's College London"
+  },
+  {
+    "id": 76,
+    "question": "Where were Heinrich Franz Friedrich Tietze educated from August 1898 to October 1902?",
+    "answer": "TU Wien"
+  },
+  {
+    "id": 77,
+    "question": "Which employers did Heinrich Franz Friedrich Tietze work for from January 1908 to September 1913?",
+    "answer": "University of Vienna"
+  },
+  {
+    "id": 78,
+    "question": "Where were Jörg Widmann educated from December 1986 to December 1994?",
+    "answer": "Hochschule für Musik und Theater München"
+  },
+  {
+    "id": 79,
+    "question": "Where were Jörg Widmann educated from March 1991 to August 1994?",
+    "answer": "Hochschule für Musik und Theater München"
+  },
+  {
+    "id": 80,
+    "question": "Which positions did Roy Jenkins hold from March 1980 to December 1982?",
+    "answer": "President of the European Commission"
+  },
+  {
+    "id": 81,
+    "question": "Which employers did Sarah Feinberg work for from February 2008 to April 2010?",
+    "answer": "House Democratic Caucus"
+  },
+  {
+    "id": 82,
+    "question": "Which employers did Sarah Feinberg work for from December 2016 to July 2020?",
+    "answer": "Federal Railroad Administration"
+  },
+  {
+    "id": 83,
+    "question": "Which positions did Sarah Feinberg hold from May 2014 to July 2022?",
+    "answer": "chief of staff"
+  },
+  {
+    "id": 84,
+    "question": "Where were C Lee Giles educated from April 1966 to February 1968?",
+    "answer": "Rhodes College"
+  },
+  {
+    "id": 85,
+    "question": "Which political parties did Salvatore Cuffaro belong to from January 2001 to February 2010?",
+    "answer": "United Christian Democrats"
+  },
+  {
+    "id": 86,
+    "question": "Which political parties did Salvatore Cuffaro belong to from August 2001 to July 2010?",
+    "answer": "United Christian Democrats"
+  },
+  {
+    "id": 87,
+    "question": "Which positions did Marian Salzman hold from November 2002 to November 2005?",
+    "answer": "chief strategy officer"
+  },
+  {
+    "id": 88,
+    "question": "Which employers did Marian Salzman work for from March 2008 to July 2018?",
+    "answer": "Porter Novelli"
+  },
+  {
+    "id": 89,
+    "question": "Which political parties did Erik Meijer belong to from March 1972 to May 1992?",
+    "answer": "Pacifist Socialist Party"
+  },
+  {
+    "id": 90,
+    "question": "Where were Zbigniew Brzezinski educated from December 1945 to March 1952?",
+    "answer": "McGill University"
+  },
+  {
+    "id": 91,
+    "question": "Who were the head coaches of New York Liberty from October 1997 to April 2002?",
+    "answer": "Nancy Darsch"
+  },
+  {
+    "id": 92,
+    "question": "Where were Nathan Rourke educated from March 2016 to February 2018?",
+    "answer": "Fort Scott Community College"
+  },
+  {
+    "id": 93,
+    "question": "Which employers did Johnnetta B. Cole work for from March 2000 to November 2003?",
+    "answer": "Emory University"
+  },
+  {
+    "id": 94,
+    "question": "Who were the head coaches of FC Dinamo Minsk from September 2019 to December 2020?",
+    "answer": "Sergei Gurenko"
+  },
+  {
+    "id": 95,
+    "question": "Where were Obi Toppin educated from May 2014 to September 2016?",
+    "answer": "Melbourne Central Catholic High School"
+  },
+  {
+    "id": 96,
+    "question": "Where were Obi Toppin educated from September 2014 to July 2016?",
+    "answer": "Melbourne Central Catholic High School"
+  },
+  {
+    "id": 97,
+    "question": "Where were Chris Hadfield educated from November 1982 to May 1991?",
+    "answer": "University of Waterloo"
+  },
+  {
+    "id": 98,
+    "question": "Where were Nicholas de Roumanie-Medforth-Mills educated from May 1993 to November 2001?",
+    "answer": "Argyle House School"
+  },
+  {
+    "id": 99,
+    "question": "Where were Timothy Snyder educated from March 1987 to November 1994?",
+    "answer": "Brown University"
+  },
+  {
+    "id": 100,
+    "question": "Where were Keiko Fujimori educated from September 1996 to January 2006?",
+    "answer": "Boston University"
+  },
+  {
+    "id": 101,
+    "question": "Which employers did Åke Pleijel work for from September 1940 to March 1947?",
+    "answer": "Stockholm University"
+  },
+  {
+    "id": 102,
+    "question": "Which employers did Lee Patrick Brown work for from January 1970 to June 1973?",
+    "answer": "Portland State University"
+  },
+  {
+    "id": 103,
+    "question": "Where were Gary Payton II educated from March 2011 to February 2013?",
+    "answer": "Westwind Preparatory Academy"
+  },
+  {
+    "id": 104,
+    "question": "Which political parties did Flavio Zanonato belong to from December 1990 to June 1993?",
+    "answer": "Italian Communist Party"
+  },
+  {
+    "id": 105,
+    "question": "Where were Jan Carew educated from January 1945 to January 1946?",
+    "answer": "Howard University"
+  },
+  {
+    "id": 106,
+    "question": "Which employers did Michael Batty work for from August 1967 to March 1970?",
+    "answer": "University of Manchester"
+  },
+  {
+    "id": 107,
+    "question": "Which employers did Michael Batty work for from January 1974 to November 1988?",
+    "answer": "University of Reading"
+  },
+  {
+    "id": 108,
+    "question": "Which employers did Albert Szent-Györgyi work for from December 1927 to June 1937?",
+    "answer": "Fitzwilliam College"
+  },
+  {
+    "id": 109,
+    "question": "Where were Elias Tillandz educated from July 1659 to August 1666?",
+    "answer": "Royal Academy of Turku"
+  },
+  {
+    "id": 110,
+    "question": "Who were the head coaches of Parma Calcio 1913 from June 2007 to October 2020?",
+    "answer": "Claudio Ranieri"
+  },
+  {
+    "id": 111,
+    "question": "Who were the head coaches of Parma Calcio 1913 from October 2021 to January 2022?",
+    "answer": "Enzo Maresca"
+  },
+  {
+    "id": 112,
+    "question": "Where were Pat Forde educated from April 1979 to August 1985?",
+    "answer": "Air Academy High School"
+  },
+  {
+    "id": 113,
+    "question": "Where were Gheorghe Vrănceanu educated from June 1922 to June 1923?",
+    "answer": "University of Göttingen"
+  },
+  {
+    "id": 114,
+    "question": "Which teams did Fabio Bazzani play for from May 2005 to June 2007?",
+    "answer": "U.C. Sampdoria"
+  },
+  {
+    "id": 115,
+    "question": "Which teams did Fabio Bazzani play for from July 2008 to May 2009?",
+    "answer": "Delfino Pescara 1936"
+  },
+  {
+    "id": 116,
+    "question": "Which employers did Gilles Pélisson work for from December 2003 to November 2009?",
+    "answer": "Bouygues Telecom"
+  },
+  {
+    "id": 117,
+    "question": "Which political parties did Renato Brunetta belong to from March 2005 to February 2010?",
+    "answer": "Forza Italia"
+  },
+  {
+    "id": 118,
+    "question": "Where were Solomon Lefschetz educated from December 1904 to June 1910?",
+    "answer": "École Centrale Paris"
+  },
+  {
+    "id": 119,
+    "question": "Which employers did Solomon Lefschetz work for from March 1915 to April 1934?",
+    "answer": "University of Kansas"
+  },
+  {
+    "id": 120,
+    "question": "Which political parties did Meral Akşener belong to from February 2001 to October 2018?",
+    "answer": "Nationalist Movement Party"
+  },
+  {
+    "id": 121,
+    "question": "Which employer did Hans Kramers work for 35 years after March 1912?",
+    "answer": "Delft University of Technology"
+  },
+  {
+    "id": 122,
+    "question": "Where was Hans Kramers educated 25 years and 1 months before January 1944?",
+    "answer": "University of Copenhagen"
+  },
+  {
+    "id": 123,
+    "question": "Where was Hans Kramers educated 30 years and 6 months before January 1948?",
+    "answer": "University of Copenhagen"
+  },
+  {
+    "id": 124,
+    "question": "Which employer did Gustav Ludwig Hertz work for 8 years and 2 months before April 1926?",
+    "answer": "Humboldt University of Berlin"
+  },
+  {
+    "id": 125,
+    "question": "Which employer did Gustav Ludwig Hertz work for 28 years and 2 months before January 1955?",
+    "answer": "University of Halle-Wittenberg"
+  },
+  {
+    "id": 126,
+    "question": "Who was the spouse of Anna Wilmarth Ickes 8 years and 3 months before December 1914?",
+    "answer": "James Westfall Thompson"
+  },
+  {
+    "id": 127,
+    "question": "Where was Evan Tom Davies educated 45 years and 3 months before July 1970?",
+    "answer": "Swansea University"
+  },
+  {
+    "id": 128,
+    "question": "Where was Jeannette Young educated 13 years and 4 months before September 2006?",
+    "answer": "Macquarie University"
+  },
+  {
+    "id": 129,
+    "question": "Where was Elisa Granato educated 8 years and 7 months after June 2008?",
+    "answer": "University of Zurich"
+  },
+  {
+    "id": 130,
+    "question": "Which employer did Manuel García Velarde work for 16 years after May 1964?",
+    "answer": "National University of Distance Education"
+  },
+  {
+    "id": 131,
+    "question": "Which political party did Damian Boeselager belong to 3 years and 6 months after June 2015?",
+    "answer": "Volt Europa"
+  },
+  {
+    "id": 132,
+    "question": "Where was Damian Boeselager educated 7 years and 11 months before January 2016?",
+    "answer": "University of Bayreuth"
+  },
+  {
+    "id": 133,
+    "question": "Which position did Marian Salzman hold 5 years and 8 months after November 1995?",
+    "answer": "chief strategy officer"
+  },
+  {
+    "id": 134,
+    "question": "Which position did Marian Salzman hold 4 years and 10 months after June 2002?",
+    "answer": "executive vice president"
+  },
+  {
+    "id": 135,
+    "question": "Which position did Marian Salzman hold 2 years and 8 months after September 2003?",
+    "answer": "executive vice president"
+  },
+  {
+    "id": 136,
+    "question": "Which employer did Marian Salzman work for 9 years and 11 months before January 2007?",
+    "answer": "Young & Rubicam"
+  },
+  {
+    "id": 137,
+    "question": "Which employer did Marian Salzman work for 3 years and 3 months after September 2005?",
+    "answer": "Porter Novelli"
+  },
+  {
+    "id": 138,
+    "question": "Which position did Marian Salzman hold 6 years and 4 months before January 2008?",
+    "answer": "chief strategy officer"
+  },
+  {
+    "id": 139,
+    "question": "Where was Prince William, Duke of Cambridge educated 25 years and 11 months before January 2015?",
+    "answer": "Wetherby School"
+  },
+  {
+    "id": 140,
+    "question": "Which employer did David Kennedy Fraser work for 5 years and 11 months after April 1910?",
+    "answer": "Cornell University"
+  },
+  {
+    "id": 141,
+    "question": "Which employer did David Kennedy Fraser work for 6 years and 8 months after April 1911?",
+    "answer": "Cornell University"
+  },
+  {
+    "id": 142,
+    "question": "Which political party did Erik Meijer belong to 18 years and 1 months before January 2001?",
+    "answer": "Pacifist Socialist Party"
+  },
+  {
+    "id": 143,
+    "question": "Which political party did Joseph Stalin belong to 7 years and 10 months after December 1894?",
+    "answer": "Russian Social Democratic Labour Party"
+  },
+  {
+    "id": 144,
+    "question": "Which employer did John von Neumann work for 15 years and 4 months after January 1924?",
+    "answer": "Institute for Advanced Study"
+  },
+  {
+    "id": 145,
+    "question": "Which employer did John von Neumann work for 14 years and 9 months before May 1955?",
+    "answer": "Institute for Advanced Study"
+  },
+  {
+    "id": 146,
+    "question": "Which employer did Johnnetta B. Cole work for 36 years and 9 months after January 1969?",
+    "answer": "Bennett College"
+  },
+  {
+    "id": 147,
+    "question": "Where was Johnnetta B. Cole educated 26 years and 5 months before December 1978?",
+    "answer": "Fisk University"
+  },
+  {
+    "id": 148,
+    "question": "Who was the head coach of FC Dinamo Minsk 1 years and 7 months before March 2021?",
+    "answer": "Sergei Gurenko"
+  },
+  {
+    "id": 149,
+    "question": "Where was Obi Toppin educated 3 years and 3 months after August 2015?",
+    "answer": "University of Dayton"
+  },
+  {
+    "id": 150,
+    "question": "Which political party did Fabrizio Cicchitto belong to 11 years and 4 months before February 2022?",
+    "answer": "The People of Freedom"
+  },
+  {
+    "id": 151,
+    "question": "Who was the spouse of Nicholas de Roumanie-Medforth-Mills 19 years and 6 months after March 1999?",
+    "answer": "Alina Maria Binder"
+  },
+  {
+    "id": 152,
+    "question": "Where was Keiko Fujimori educated 11 years and 11 months before March 2005?",
+    "answer": "Stony Brook University"
+  },
+  {
+    "id": 153,
+    "question": "Which position did Keiko Fujimori hold 10 years before March 2009?",
+    "answer": "First Lady of Peru"
+  },
+  {
+    "id": 154,
+    "question": "Where was Keiko Fujimori educated 12 years and 7 months before August 2007?",
+    "answer": "Boston University"
+  },
+  {
+    "id": 155,
+    "question": "Which employer did Robyn Denholm work for 12 years and 7 months before July 2012?",
+    "answer": "Sun Microsystems"
+  },
+  {
+    "id": 156,
+    "question": "Which employer did Robyn Denholm work for 11 years before November 2016?",
+    "answer": "Sun Microsystems"
+  },
+  {
+    "id": 157,
+    "question": "Which employer did Karl Menger work for 3 years and 2 months before February 1930?",
+    "answer": "University of Amsterdam"
+  },
+  {
+    "id": 158,
+    "question": "Where was Åke Pleijel educated 8 years and 7 months before May 1947?",
+    "answer": "Stockholm University"
+  },
+  {
+    "id": 159,
+    "question": "Which employer did Åke Pleijel work for 26 years and 1 months after May 1947?",
+    "answer": "Uppsala University"
+  },
+  {
+    "id": 160,
+    "question": "Which employer did Werner Heisenberg work for 19 years and 7 months after March 1922?",
+    "answer": "German nuclear weapons program"
+  },
+  {
+    "id": 161,
+    "question": "Which position did Mátyás Szűrös hold 14 years and 2 months after February 1976?",
+    "answer": "President of Hungary"
+  },
+  {
+    "id": 162,
+    "question": "Which political party did Toni Cantazo belong to 13 years and 4 months before March 2021?",
+    "answer": "Vecinos por Torrelodones"
+  },
+  {
+    "id": 163,
+    "question": "Which position did Vladimir Milov hold 5 years and 3 months after March 1997?",
+    "answer": "Deputy Minister"
+  },
+  {
+    "id": 164,
+    "question": "Where was Michael Batty educated 10 years and 8 months before February 1976?",
+    "answer": "University of Manchester"
+  },
+  {
+    "id": 165,
+    "question": "Which employer did Albert Szent-Györgyi work for 8 years and 7 months after May 1921?",
+    "answer": "Fitzwilliam College"
+  },
+  {
+    "id": 166,
+    "question": "Who was the head coach of Parma Calcio 1913 23 years and 9 months before December 2020?",
+    "answer": "Carlo Ancelotti"
+  },
+  {
+    "id": 167,
+    "question": "Which political party did Marcel Dassault belong to 39 years and 1 months after February 1946?",
+    "answer": "Rally for the Republic"
+  },
+  {
+    "id": 168,
+    "question": "Which employer did Pat Forde work for 26 years and 2 months after April 1982?",
+    "answer": "ESPN"
+  },
+  {
+    "id": 169,
+    "question": "Where was Pat Forde educated 34 years and 10 months before January 2014?",
+    "answer": "Air Academy High School"
+  },
+  {
+    "id": 170,
+    "question": "Which team did Fabio Bazzani play for 6 years and 7 months before January 2014?",
+    "answer": "Brescia Calcio"
+  },
+  {
+    "id": 171,
+    "question": "Which employer did Johannes van der Corput work for 37 years and 11 months after October 1911?",
+    "answer": "University of Amsterdam"
+  },
+  {
+    "id": 172,
+    "question": "Which employer did Johannes van der Corput work for 26 years and 8 months after March 1922?",
+    "answer": "University of Amsterdam"
+  },
+  {
+    "id": 173,
+    "question": "Which political party did Jozo Radoš belong to 13 years and 2 months before October 2017?",
+    "answer": "Party of Liberal Democrats"
+  },
+  {
+    "id": 174,
+    "question": "Which political party did Khairuddin Razali belong to 14 years and 2 months before June 2022?",
+    "answer": "Malaysian Islamic Party"
+  },
+  {
+    "id": 175,
+    "question": "Which employer did Solomon Lefschetz work for 7 years and 7 months after July 1910?",
+    "answer": "University of Kansas"
+  },
+  {
+    "id": 176,
+    "question": "Which employer did Frigyes Riesz work for 23 years and 11 months after January 1899?",
+    "answer": "University of Szeged"
+  },
+  {
+    "id": 177,
+    "question": "Which employer did Rafael Artzy work for 31 years and 11 months before October 1994?",
+    "answer": "Rutgers University"
+  },
+  {
+    "id": 178,
+    "question": "Which political party did Jüri Adams belong to after he/she was the member of Isamaa?",
+    "answer": "Estonian Free Party"
+  },
+  {
+    "id": 179,
+    "question": "Which position did Francis Grosvenor, 8th Earl of Wilton hold before he/she was married to Gillian Elfrida Astley Soames?",
+    "answer": "heir apparent"
+  },
+  {
+    "id": 180,
+    "question": "Who was the spouse of Francis Grosvenor, 8th Earl of Wilton after he/she was married to Gillian Elfrida Astley Soames?",
+    "answer": "Kyra Aslin"
+  },
+  {
+    "id": 181,
+    "question": "Who was the spouse of Anna Wilmarth Ickes after he/she studied at University of Chicago?",
+    "answer": "James Westfall Thompson"
+  },
+  {
+    "id": 182,
+    "question": "Where was Anna Wilmarth Ickes educated before he/she was married to James Westfall Thompson?",
+    "answer": "University of Chicago"
+  },
+  {
+    "id": 183,
+    "question": "Where was Evan Tom Davies educated after he/she studied at Aberystwyth University?",
+    "answer": "Swansea University"
+  },
+  {
+    "id": 184,
+    "question": "Where was Evan Tom Davies educated before he/she studied at Sapienza University of Rome?",
+    "answer": "Swansea University"
+  },
+  {
+    "id": 185,
+    "question": "Which employer did Evan Tom Davies work for after he/she studied at Sapienza University of Rome?",
+    "answer": "King's College London"
+  },
+  {
+    "id": 186,
+    "question": "Where was Stefan Mazurkiewicz educated after he/she studied at Ludwig Maximilian University of Munich?",
+    "answer": "University of Göttingen"
+  },
+  {
+    "id": 187,
+    "question": "Where was Reinhold Baer educated after he/she studied at Leibniz University Hannover?",
+    "answer": "University of Freiburg"
+  },
+  {
+    "id": 188,
+    "question": "Which political party did Kersti Kaljulaid belong to before he/she held the position of President of Estonia?",
+    "answer": "Pro Patria Union"
+  },
+  {
+    "id": 189,
+    "question": "Which employer did Sarah Feinberg work for after he/she held the position of chief of staff?",
+    "answer": "Federal Railroad Administration"
+  },
+  {
+    "id": 190,
+    "question": "Where was C Lee Giles educated before he/she studied at University of Michigan?",
+    "answer": "University of Tennessee"
+  },
+  {
+    "id": 191,
+    "question": "What was the residence of L. L. Zamenhof before he/she was living in Kherson?",
+    "answer": "Płock"
+  },
+  {
+    "id": 192,
+    "question": "Which employer did Marian Salzman work for after he/she worked for TBWA Worldwide?",
+    "answer": "Young & Rubicam"
+  },
+  {
+    "id": 193,
+    "question": "Who was the owner of New York Liberty after Bill Laimbeer was the headcoach?",
+    "answer": "Joseph Tsai"
+  },
+  {
+    "id": 194,
+    "question": "Who was the head coach of New York Liberty before it was owned by Joseph Tsai?",
+    "answer": "Bill Laimbeer"
+  },
+  {
+    "id": 195,
+    "question": "Which political party did Joseph Stalin belong to after he/she worked for Tbilisi Observatory?",
+    "answer": "Russian Social Democratic Labour Party"
+  },
+  {
+    "id": 196,
+    "question": "Where was Nathan Rourke educated before he/she studied at Ohio University?",
+    "answer": "Fort Scott Community College"
+  },
+  {
+    "id": 197,
+    "question": "Which employer did John von Neumann work for after he/she worked for Armed Forces Special Weapons Project?",
+    "answer": "United States Atomic Energy Commission"
+  },
+  {
+    "id": 198,
+    "question": "Which employer did Johnnetta B. Cole work for after he/she worked for Washington State University?",
+    "answer": "University of Massachusetts Amherst"
+  },
+  {
+    "id": 199,
+    "question": "Who was the spouse of Joseph Kobzon after he/she was married to Veronica P. Kruglova?",
+    "answer": "Lyudmila Gurchenko"
+  },
+  {
+    "id": 200,
+    "question": "Where was Beate Meinl-Reisinger educated before he/she studied at Danube University Krems?",
+    "answer": "University of Vienna"
+  },
+  {
+    "id": 201,
+    "question": "Where was Beate Meinl-Reisinger educated before he/she was the member of NEOS – The New Austria?",
+    "answer": "Danube University Krems"
+  },
+  {
+    "id": 202,
+    "question": "Where was Obi Toppin educated before he/she played for Dayton Flyers men's basketball?",
+    "answer": "Ossining High School"
+  },
+  {
+    "id": 203,
+    "question": "Where was Joseph Ritt educated after he/she studied at City College of New York?",
+    "answer": "George Washington University"
+  },
+  {
+    "id": 204,
+    "question": "Who was the spouse of El Potro Álvarez before he/she was married to Mariángel  Carolina Ruiz Diaz?",
+    "answer": "Astrid Carolina Herrera"
+  },
+  {
+    "id": 205,
+    "question": "Where was Chris Hadfield educated before he/she held the position of ISS Expedition Commander?",
+    "answer": "University of Tennessee Space Institute"
+  },
+  {
+    "id": 206,
+    "question": "Which position did Jean-Pierre Bosser hold after he/she studied at École de l'infanterie?",
+    "answer": "Chief of Staff of the French Army"
+  },
+  {
+    "id": 207,
+    "question": "Which employer did Robyn Denholm work for after he/she worked for Toyota Australia?",
+    "answer": "Sun Microsystems"
+  },
+  {
+    "id": 208,
+    "question": "Which employer did Robyn Denholm work for before he/she worked for Sun Microsystems?",
+    "answer": "Toyota Australia"
+  },
+  {
+    "id": 209,
+    "question": "Which employer did Robyn Denholm work for before he/she worked for Juniper Networks?",
+    "answer": "Sun Microsystems"
+  },
+  {
+    "id": 210,
+    "question": "Where was Daniil Mordovtsev educated before he/she studied at Saint Petersburg State University?",
+    "answer": "Kazan Federal University"
+  },
+  {
+    "id": 211,
+    "question": "Where was Suzana Herculano-Houzel educated before he/she studied at Case Western Reserve University?",
+    "answer": "Federal University of Rio de Janeiro"
+  },
+  {
+    "id": 212,
+    "question": "Where was Karl Menger educated before he/she worked for University of Amsterdam?",
+    "answer": "University of Vienna"
+  },
+  {
+    "id": 213,
+    "question": "Who was the spouse of Silvia Pinal after he/she was married to Rafael Banquells?",
+    "answer": "Gustavo Alatriste"
+  },
+  {
+    "id": 214,
+    "question": "Who was the spouse of Marianne Aasen after he/she studied at University of Oslo?",
+    "answer": "Simen Agdestein"
+  },
+  {
+    "id": 215,
+    "question": "Which employer did Lee Patrick Brown work for before he/she worked for Howard University?",
+    "answer": "Portland State University"
+  },
+  {
+    "id": 216,
+    "question": "Which employer did Lee Patrick Brown work for before he/she held the position of chief of police?",
+    "answer": "Howard University"
+  },
+  {
+    "id": 217,
+    "question": "Who was the spouse of Hilde Benjamin after he/she studied at Humboldt University of Berlin?",
+    "answer": "Georg Benjamin"
+  },
+  {
+    "id": 218,
+    "question": "Where was Gary Payton II educated before he/she studied at Salt Lake Community College?",
+    "answer": "Westwind Preparatory Academy"
+  },
+  {
+    "id": 219,
+    "question": "Where was Gary Payton II educated before he/she played for Oregon State Beavers men's basketball?",
+    "answer": "Salt Lake Community College"
+  },
+  {
+    "id": 220,
+    "question": "Which employer did Werner Heisenberg work for after he/she worked for German nuclear weapons project?",
+    "answer": "Max Planck Institute for Physics"
+  },
+  {
+    "id": 221,
+    "question": "Where was Jacques Attali educated before he/she studied at Sciences Po?",
+    "answer": "École polytechnique"
+  },
+  {
+    "id": 222,
+    "question": "Where was Jacques Attali educated before he/she worked for École polytechnique?",
+    "answer": "Sciences Po"
+  },
+  {
+    "id": 223,
+    "question": "Who was the spouse of Ann Wolff before he/she was working in Kosta, Sweden?",
+    "answer": "Göran Wärff"
+  },
+  {
+    "id": 224,
+    "question": "Where did Ann Wolff work after he/she was working in Kosta, Sweden?",
+    "answer": "Kyllaj"
+  },
+  {
+    "id": 225,
+    "question": "Which position did Vladimir Milov hold after he/she held the position of consultant?",
+    "answer": "Deputy Minister"
+  },
+  {
+    "id": 226,
+    "question": "Which political party did Vladimir Milov belong to after he/she was the member of Solidarnost?",
+    "answer": "People's Freedom Party \"For Russia without Lawlessness and Corruption\""
+  },
+  {
+    "id": 227,
+    "question": "Who was the spouse of Jan Carew after he/she studied at Charles University?",
+    "answer": "Sylvia Wynter"
+  },
+  {
+    "id": 228,
+    "question": "Which employer did Jan Carew work for after he/she worked for Hampshire College?",
+    "answer": "George Mason University"
+  },
+  {
+    "id": 229,
+    "question": "Which employer did Jan Carew work for before he/she worked for Illinois Wesleyan University?",
+    "answer": "George Mason University"
+  },
+  {
+    "id": 230,
+    "question": "Which position did Basuki Tjahaja Purnama hold before he/she was the member of Party of Functional Groups?",
+    "answer": "Regent of East Belitung"
+  },
+  {
+    "id": 231,
+    "question": "Which political party did Basuki Tjahaja Purnama belong to before he/she was the member of Great Indonesia Movement Party?",
+    "answer": "Golkar"
+  },
+  {
+    "id": 232,
+    "question": "Which employer did Albert Szent-Györgyi work for after he/she worked for University of Groningen?",
+    "answer": "Fitzwilliam College"
+  },
+  {
+    "id": 233,
+    "question": "Where was Anna Cervin educated after he/she studied at Royal Swedish Academy of Fine Arts?",
+    "answer": "Académie Colarossi"
+  },
+  {
+    "id": 234,
+    "question": "Where was Abraham Fraenkel educated before he/she studied at University of Wrocław?",
+    "answer": "Ludwig Maximilian University of Munich"
+  },
+  {
+    "id": 235,
+    "question": "Which employer did Pat Forde work for after he/she worked for Yahoo Sports?",
+    "answer": "Sports Illustrated"
+  },
+  {
+    "id": 236,
+    "question": "Which employer did Gheorghe Vrănceanu work for after he/she worked for Chernivtsi University?",
+    "answer": "University of Bucharest"
+  },
+  {
+    "id": 237,
+    "question": "Where was Jiankui He educated before he/she studied at Rice University?",
+    "answer": "University of Science and Technology of China"
+  },
+  {
+    "id": 238,
+    "question": "Which employer did Gilles Pélisson work for after he/she worked for Euro Disney S.C.A.?",
+    "answer": "Bouygues Telecom"
+  },
+  {
+    "id": 239,
+    "question": "Which employer did Gilles Pélisson work for after he/she worked for Bouygues Telecom?",
+    "answer": "Accor"
+  },
+  {
+    "id": 240,
+    "question": "Where was Renée Hložek educated before he/she worked for Dunlap Institute for Astronomy and Astrophysics?",
+    "answer": "Princeton University"
+  },
+  {
+    "id": 241,
+    "question": "Which employer did Corine Mauch work for after he/she worked for Uster?",
+    "answer": "ETH Zurich"
+  },
+  {
+    "id": 242,
+    "question": "Where was Jessica Stegrud educated after he/she studied at Karlstad University?",
+    "answer": "Gävle University College"
+  },
+  {
+    "id": 243,
+    "question": "Which political party did Meral Akşener belong to before he/she was the member of İYİ Party?",
+    "answer": "Nationalist Movement Party"
+  },
+  {
+    "id": 244,
+    "question": "Where was Joëlle Elvinger educated after he/she studied at Lycée de garçons Luxembourg?",
+    "answer": "Paul Cézanne University"
+  },
+  {
+    "id": 245,
+    "question": "Which political party did Didier Motchane belong to after he/she was the member of Movement of Citizens?",
+    "answer": "Citizen and Republican Movement"
+  },
+  {
+    "id": 246,
+    "question": "Who was the spouse of Mary, Crown Princess of Denmark after he/she studied at University of Tasmania?",
+    "answer": "Frederik, Crown Prince of Denmark"
+  },
+  {
+    "id": 247,
+    "question": "Where was Lotte Wubben-Moy educated before he/she played for North Carolina Tar Heels women's soccer?",
+    "answer": "Stoke Newington School and Sixth Form"
+  },
+  {
+    "id": 248,
+    "question": "Which employer did Rafael Artzy work for after he/she worked for University of North Carolina at Chapel Hill?",
+    "answer": "Rutgers University"
+  },
+  {
+    "id": 249,
+    "question": "Which positions did Jeannette Young hold when he/she was married to Graeme Nimmo?",
+    "answer": "Governor of Queensland"
+  },
+  {
+    "id": 250,
+    "question": "Which positions did Roy Jenkins hold when he/she was the member of Liberal Democrats?",
+    "answer": "Chancellor of the University of Oxford"
+  },
+  {
+    "id": 251,
+    "question": "Which political parties did Luisa María Cuculiza belong to when he/she held the position of member of the Congress of the Republic of Peru?",
+    "answer": "Sí Cumple"
+  },
+  {
+    "id": 252,
+    "question": "Which positions did Marian Salzman hold when he/she was worked for Havas?",
+    "answer": "chief strategy officer"
+  },
+  {
+    "id": 253,
+    "question": "Which employers did Marian Salzman work for when he/she held the position of chief strategy officer?",
+    "answer": "Havas"
+  },
+  {
+    "id": 254,
+    "question": "Which positions did Marian Salzman hold when he/she was worked for J. Walter Thompson?",
+    "answer": "executive vice president"
+  },
+  {
+    "id": 255,
+    "question": "Which employers did Marian Salzman work for when he/she held the position of Senior vice-president?",
+    "answer": "Philip Morris International"
+  },
+  {
+    "id": 256,
+    "question": "Who were the head coaches of New York Liberty when it was owned by Madison Square Garden Sports?",
+    "answer": "John Whisenant"
+  },
+  {
+    "id": 257,
+    "question": "Which political parties did Andres Ammas belong to when he/she held the position of member of the Estonian Riigikogu?",
+    "answer": "Estonian Free Party"
+  },
+  {
+    "id": 258,
+    "question": "Which positions did Joseph Stalin hold when he/she was married to Nadezhda Alliluyeva?",
+    "answer": "General Secretary of the Communist Party of the Soviet Union"
+  },
+  {
+    "id": 259,
+    "question": "Which employers did John von Neumann work for when he/she was married to Klara Dan von Neumann?",
+    "answer": "Institute for Advanced Study"
+  },
+  {
+    "id": 260,
+    "question": "Where were Jeroen van Wijngaarden educated when he/she held the position of municipal councillor of Amsterdam?",
+    "answer": "University of Amsterdam"
+  },
+  {
+    "id": 261,
+    "question": "Where were Keiko Fujimori educated when he/she held the position of First Lady of Peru?",
+    "answer": "Boston University"
+  },
+  {
+    "id": 262,
+    "question": "Which political parties did Silvia Pinal belong to when he/she was married to Tulio Hernández Gómez?",
+    "answer": "Institutional Revolutionary Party"
+  },
+  {
+    "id": 263,
+    "question": "Where were Åke Pleijel educated when he/she was married to Sonja Berg Pleijel?",
+    "answer": "Stockholm University"
+  },
+  {
+    "id": 264,
+    "question": "Which positions did Hilde Benjamin hold when he/she was the member of Socialist Unity Party of Germany?",
+    "answer": "member of the Volkskammer"
+  },
+  {
+    "id": 265,
+    "question": "Where were Gary Payton II educated when he/she was playing for Oregon State Beavers men's basketball?",
+    "answer": "Oregon State University"
+  },
+  {
+    "id": 266,
+    "question": "Which teams did Gary Payton II play for when he/she was studying at Oregon State University?",
+    "answer": "Oregon State Beavers men's basketball"
+  },
+  {
+    "id": 267,
+    "question": "Which political parties did Mátyás Szűrös belong to when he/she held the position of member of the National Assembly of Hungary?",
+    "answer": "Hungarian Socialist Party"
+  },
+  {
+    "id": 268,
+    "question": "Which employers did Elon Musk work for when he/she held the position of director general?",
+    "answer": "SpaceX"
+  },
+  {
+    "id": 269,
+    "question": "Which employers did Gilles Pélisson work for when he/she held the position of président-directeur général?",
+    "answer": "Accor"
+  },
+  {
+    "id": 270,
+    "question": "Which political parties did Renato Brunetta belong to when he/she held the position of member of the European Parliament?",
+    "answer": "Forza Italia"
+  },
+  {
+    "id": 271,
+    "question": "Which political parties did Jozo Radoš belong to when he/she held the position of Representative of the Parliamentary Assembly of the Council of Europe?",
+    "answer": "Croatian Social Liberal Party"
+  },
+  {
+    "id": 272,
+    "question": "Which political parties did Jozo Radoš belong to when he/she held the position of representative in the Croatian Parliament?",
+    "answer": "Croatian People's Party – Liberal Democrats"
+  },
+  {
+    "id": 273,
+    "question": "Which political parties did Meral Akşener belong to when he/she held the position of Interior Minister of Turkey?",
+    "answer": "True Path Party"
+  },
+  {
+    "id": 274,
+    "question": "Which employer did Hans Kramers work for 8 years and 10 months after he/she studied at Leiden University?",
+    "answer": "University of Copenhagen"
+  },
+  {
+    "id": 275,
+    "question": "Which employer did Hans Kramers work for 3 years and 3 months after he/she worked for Utrecht University?",
+    "answer": "Delft University of Technology"
+  },
+  {
+    "id": 276,
+    "question": "Where was Shahidul Jahir educated 25 years and 6 months before he/she worked for BPATC?",
+    "answer": "Dhaka College"
+  },
+  {
+    "id": 277,
+    "question": "Which employer did Jörg Widmann work for 7 years and 10 months after he/she studied at Hochschule für Musik und Theater München?",
+    "answer": "Hochschule für Musik Freiburg"
+  },
+  {
+    "id": 278,
+    "question": "Where was Jörg Widmann educated 18 years and 3 months before he/she worked for Barenboim–Said Akademie?",
+    "answer": "Hochschule für Musik Karlsruhe"
+  },
+  {
+    "id": 279,
+    "question": "Which employer did Reinhold Baer work for 2 years before he/she worked for University of Illinois at Urbana–Champaign?",
+    "answer": "Institute for Advanced Study"
+  },
+  {
+    "id": 280,
+    "question": "Which employer did Manuel García Velarde work for 3 years and 11 months after he/she worked for Université libre de Bruxelles?",
+    "answer": "Autonomous University of Madrid"
+  },
+  {
+    "id": 281,
+    "question": "Which employer did Manuel García Velarde work for 22 years and 4 months after he/she worked for Université libre de Bruxelles?",
+    "answer": "National University of Distance Education"
+  },
+  {
+    "id": 282,
+    "question": "Which employer did Manuel García Velarde work for 8 years and 5 months after he/she worked for University of Texas at Austin?",
+    "answer": "Autonomous University of Madrid"
+  },
+  {
+    "id": 283,
+    "question": "Where was Manuel García Velarde educated 5 years and 1 months before he/she worked for Autonomous University of Madrid?",
+    "answer": "Complutense University of Madrid"
+  },
+  {
+    "id": 284,
+    "question": "Where was Damian Boeselager educated 7 years and 3 months before he/she studied at Hertie School?",
+    "answer": "University of Bayreuth"
+  },
+  {
+    "id": 285,
+    "question": "Which employer did Jacqui Lambie work for 19 years and 7 months before he/she was the member of Jacqui Lambie Network?",
+    "answer": "Australian Defence Force"
+  },
+  {
+    "id": 286,
+    "question": "What was the residence of L. L. Zamenhof 21 years and 9 months before he/she received Honorary President of the World Esperanto Association?",
+    "answer": "Veisiejai"
+  },
+  {
+    "id": 287,
+    "question": "Which position did Marian Salzman hold 6 years and 7 months after he/she worked for TBWA Worldwide?",
+    "answer": "chief strategy officer"
+  },
+  {
+    "id": 288,
+    "question": "Which position did Marian Salzman hold 9 years and 10 months before he/she worked for Philip Morris International?",
+    "answer": "chief marketing officer"
+  },
+  {
+    "id": 289,
+    "question": "Where was Nathan Rourke educated 9 months before he/she played for Ohio Bobcats football?",
+    "answer": "Fort Scott Community College"
+  },
+  {
+    "id": 290,
+    "question": "Which employer did John von Neumann work for 5 years and 9 months before he/she was married to Klara Dan von Neumann?",
+    "answer": "Princeton University"
+  },
+  {
+    "id": 291,
+    "question": "Which employer did John von Neumann work for 14 years and 5 months before he/she worked for United States Atomic Energy Commission?",
+    "answer": "Institute for Advanced Study"
+  },
+  {
+    "id": 292,
+    "question": "Which employer did Joseph Leonard Walsh work for 30 years and 9 months after he/she studied at Columbia University?",
+    "answer": "United States Navy"
+  },
+  {
+    "id": 293,
+    "question": "Which employer did Johnnetta B. Cole work for 18 years and 4 months after he/she studied at Fisk University?",
+    "answer": "University of Massachusetts Amherst"
+  },
+  {
+    "id": 294,
+    "question": "Who was the spouse of El Potro Álvarez 10 years after he/she was married to Astrid Carolina Herrera?",
+    "answer": "Dayana Colmenares"
+  },
+  {
+    "id": 295,
+    "question": "Who was the spouse of El Potro Álvarez 8 years and 8 months before he/she was married to Dayana Colmenares?",
+    "answer": "Astrid Carolina Herrera"
+  },
+  {
+    "id": 296,
+    "question": "Which position did Denis Healey hold 3 years and 1 months after he/she held the position of Member of the 46th Parliament of the United Kingdom?",
+    "answer": "Chancellor of the Exchequer"
+  },
+  {
+    "id": 297,
+    "question": "Which position did Denis Healey hold 3 years and 6 months before he/she held the position of Shadow Foreign Secretary?",
+    "answer": "Chancellor of the Exchequer"
+  },
+  {
+    "id": 298,
+    "question": "Which political party did Fabrizio Cicchitto belong to 5 years before he/she was the member of Popular Alternative?",
+    "answer": "The People of Freedom"
+  },
+  {
+    "id": 299,
+    "question": "Which employer did Hans Bethe work for 27 years and 2 months after he/she studied at Sapienza University of Rome?",
+    "answer": "Cornell University"
+  },
+  {
+    "id": 300,
+    "question": "Which employer did Karl Menger work for 14 years and 5 months after he/she studied at University of Vienna?",
+    "answer": "University of Notre Dame"
+  },
+  {
+    "id": 301,
+    "question": "Which employer did Karl Menger work for 10 years and 10 months after he/she worked for University of Amsterdam?",
+    "answer": "University of Notre Dame"
+  },
+  {
+    "id": 302,
+    "question": "Which political party did Silvia Pinal belong to 44 years and 2 months after he/she was married to Rafael Banquells?",
+    "answer": "Institutional Revolutionary Party"
+  },
+  {
+    "id": 303,
+    "question": "Where was Åke Pleijel educated 11 years and 7 months before he/she worked for Institute for Advanced Study?",
+    "answer": "Stockholm University"
+  },
+  {
+    "id": 304,
+    "question": "Which employer did Lee Patrick Brown work for 21 years before he/she held the position of New York City Police Commissioner?",
+    "answer": "Portland State University"
+  },
+  {
+    "id": 305,
+    "question": "Which political party did Mátyás Szűrös belong to 38 years and 11 months after he/she studied at Moscow State Institute of International Relations?",
+    "answer": "Hungarian Socialist Party"
+  },
+  {
+    "id": 306,
+    "question": "Which political party did Vladimir Milov belong to 8 years and 1 months after he/she worked for Federal Tariff Service?",
+    "answer": "Solidarnost"
+  },
+  {
+    "id": 307,
+    "question": "Which award did Michael Batty receive 27 years and 1 months after he/she worked for Cardiff University?",
+    "answer": "Fellow of the British Academy"
+  },
+  {
+    "id": 308,
+    "question": "Which employer did Michael Batty work for 19 years and 9 months before he/she received Fellow of the British Academy?",
+    "answer": "Cardiff University"
+  },
+  {
+    "id": 309,
+    "question": "Where was Albert Szent-Györgyi educated 13 years and 1 months before he/she worked for University of Groningen?",
+    "answer": "Semmelweis University"
+  },
+  {
+    "id": 310,
+    "question": "Who was the chair of Parma Calcio 1913 2 years and 11 months before Enzo Maresca was the headcoach?",
+    "answer": "Jiang Lizhang"
+  },
+  {
+    "id": 311,
+    "question": "Which political party did Marcel Dassault belong to 36 years and 9 months after he/she held the position of president?",
+    "answer": "Rally for the Republic"
+  },
+  {
+    "id": 312,
+    "question": "Where was Gheorghe Vrănceanu educated 6 years and 3 months before he/she worked for Chernivtsi University?",
+    "answer": "University of Göttingen"
+  },
+  {
+    "id": 313,
+    "question": "Which employer did Thomas Pesquet work for 2 years and 6 months after he/she studied at Institut Supérieur de l'Aéronautique et de l'Espace?",
+    "answer": "CNES"
+  },
+  {
+    "id": 314,
+    "question": "Which team did Fabio Bazzani play for 2 years and 5 months after he/she played for Delfino Pescara 1936?",
+    "answer": "A.S.D. Mezzolara"
+  },
+  {
+    "id": 315,
+    "question": "Which team did Fabio Bazzani play for 2 years and 10 months before he/she played for A.S.D. Mezzolara?",
+    "answer": "Brescia Calcio"
+  },
+  {
+    "id": 316,
+    "question": "Which employer did Elon Musk work for 23 years and 2 months after he/she studied at Smith School of Business?",
+    "answer": "SpaceX"
+  },
+  {
+    "id": 317,
+    "question": "Who was the spouse of Elon Musk 2 years and 7 months before he/she worked for Neuralink?",
+    "answer": "Talulah Riley"
+  },
+  {
+    "id": 318,
+    "question": "Which employer did Elon Musk work for 3 years and 6 months before he/she was living in Boca Chica (Texas)?",
+    "answer": "SpaceX"
+  },
+  {
+    "id": 319,
+    "question": "Where was Renée Hložek educated 6 years and 10 months after he/she studied at University of Pretoria?",
+    "answer": "Princeton University"
+  },
+  {
+    "id": 320,
+    "question": "Where was Jessica Stegrud educated 29 years before he/she held the position of member of the Swedish Riksdag?",
+    "answer": "University of Angers"
+  },
+  {
+    "id": 321,
+    "question": "Which employer did Selig Brodetsky work for 50 years and 3 months after he/she studied at JFS?",
+    "answer": "Hebrew University of Jerusalem"
+  },
+  {
+    "id": 322,
+    "question": "Which employer did Selig Brodetsky work for 44 years and 6 months after he/she studied at Central Foundation Boys' School?",
+    "answer": "Hebrew University of Jerusalem"
+  },
+  {
+    "id": 323,
+    "question": "Which political party did Khairuddin Razali belong to 7 years and 2 months before he/she was the member of independent politician?",
+    "answer": "Malaysian Islamic Party"
+  },
+  {
+    "id": 324,
+    "question": "Which employer did Solomon Lefschetz work for 4 years and 2 months before he/she studied at Clark University?",
+    "answer": "Baldwin Locomotive Works"
+  },
+  {
+    "id": 325,
+    "question": "Which employer did Frigyes Riesz work for 24 years and 1 months after he/she studied at Eötvös Loránd University?",
+    "answer": "University of Szeged"
+  },
+  {
+    "id": 326,
+    "question": "Who was the spouse of Didier Motchane 26 years and 11 months after he/she held the position of member of the European Parliament?",
+    "answer": "Dominique Cabrera"
+  },
+  {
+    "id": 327,
+    "question": "Where was Mary, Crown Princess of Denmark educated 15 years and 6 months before he/she was married to Frederik, Crown Prince of Denmark?",
+    "answer": "Hobart College"
+  },
+  {
+    "id": 328,
+    "question": "Which employer did Rafael Artzy work for 11 years and 3 months before he/she worked for University of Haifa?",
+    "answer": "Rutgers University"
+  }
+]

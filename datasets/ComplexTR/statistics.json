@@ -1,0 +1,160 @@
+{
+  "dataset_info": {
+    "source_file": "test_gold.json",
+    "total_items": 329,
+    "processing_date": "auto-generated"
+  },
+  "document_stats": {
+    "total_documents": 112,
+    "total_tokens": 240165,
+    "avg_tokens_per_doc": 2144.3303571428573,
+    "max_tokens": 26196,
+    "min_tokens": 19,
+    "total_chars": 1101442,
+    "avg_chars_per_doc": 9834.30357142857,
+    "duplicates_merged": 0,
+    "duplicates_skipped": 217
+  },
+  "question_stats": {
+    "original_questions": 329,
+    "filtered_questions": 329,
+    "empty_answers_removed": 0,
+    "question_tokens": 6804,
+    "answer_tokens": 1425,
+    "avg_question_tokens": 20.680851063829788,
+    "avg_answer_tokens": 4.331306990881459,
+    "total_qa_tokens": 8229,
+    "avg_question_chars": 84.82370820668693,
+    "avg_answer_chars": 21.857142857142858
+  },
+  "top_10_largest_documents": [
+    {
+      "doc_id": 80,
+      "title": "Joseph StalinJoseph Vissarionovich",
+      "tokens": 26196,
+      "chars": 126356
+    },
+    {
+      "doc_id": 21,
+      "title": "Laurence OlivierLaurence Kerr",
+      "tokens": 14282,
+      "chars": 64040
+    },
+    {
+      "doc_id": 22,
+      "title": "John von NeumannJohn",
+      "tokens": 14087,
+      "chars": 68146
+    },
+    {
+      "doc_id": 6,
+      "title": "Roy JenkinsRoy Harris",
+      "tokens": 13776,
+      "chars": 67485
+    },
+    {
+      "doc_id": 63,
+      "title": "Zbigniew BrzezinskiZbigniew Kazimierz",
+      "tokens": 9720,
+      "chars": 46288
+    },
+    {
+      "doc_id": 36,
+      "title": "Werner HeisenbergWerner Karl",
+      "tokens": 9253,
+      "chars": 43586
+    },
+    {
+      "doc_id": 15,
+      "title": "Prince William, Duke",
+      "tokens": 8276,
+      "chars": 38973
+    },
+    {
+      "doc_id": 29,
+      "title": "Keiko FujimoriKeiko Sofía",
+      "tokens": 8171,
+      "chars": 38634
+    },
+    {
+      "doc_id": 48,
+      "title": "Elon MuskElon Reeve",
+      "tokens": 7238,
+      "chars": 34280
+    },
+    {
+      "doc_id": 31,
+      "title": "Hans BetheHans Albrecht",
+      "tokens": 6471,
+      "chars": 30352
+    }
+  ],
+  "bottom_10_smallest_documents": [
+    {
+      "doc_id": 101,
+      "title": "Anna CervinAnna Kristina",
+      "tokens": 233,
+      "chars": 929
+    },
+    {
+      "doc_id": 106,
+      "title": "Luisa María CuculizaLuisa",
+      "tokens": 221,
+      "chars": 864
+    },
+    {
+      "doc_id": 50,
+      "title": "Johannes van der",
+      "tokens": 220,
+      "chars": 924
+    },
+    {
+      "doc_id": 73,
+      "title": "Elias TillandzElias Tillandz",
+      "tokens": 211,
+      "chars": 856
+    },
+    {
+      "doc_id": 75,
+      "title": "Renato BrunettaRenato Brunetta",
+      "tokens": 199,
+      "chars": 918
+    },
+    {
+      "doc_id": 56,
+      "title": "Didier MotchaneDidier Motchane",
+      "tokens": 192,
+      "chars": 797
+    },
+    {
+      "doc_id": 52,
+      "title": "Jessica StegrudJessica Margareta",
+      "tokens": 145,
+      "chars": 605
+    },
+    {
+      "doc_id": 18,
+      "title": "Andres AmmasAndres Ammas",
+      "tokens": 99,
+      "chars": 360
+    },
+    {
+      "doc_id": 69,
+      "title": "Åke PleijelÅke Pleijel",
+      "tokens": 97,
+      "chars": 360
+    },
+    {
+      "doc_id": 17,
+      "title": "Taro MorishimaGranville wrote",
+      "tokens": 19,
+      "chars": 75
+    }
+  ],
+  "processing_summary": {
+    "corpus_creation": "success",
+    "questions_processed": "success",
+    "title_generation": "first_three_words",
+    "deduplication": "enabled"
+  }
+}

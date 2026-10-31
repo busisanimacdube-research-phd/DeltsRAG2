@@ -1,0 +1,263 @@
+{
+ "n_scanned": 500,
+ "with_conflict": 36,
+ "index": {
+  "event_keys": 20022,
+  "conflicting_keys": 168,
+  "conflicting_keys_across_documents": 54
+ },
+ "questions": [
+  {
+   "question_id": "L3_Q3664162_P54_7",
+   "conflicts": 2,
+   "replaced": 1,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q93154_P108_2",
+   "conflicts": 2,
+   "replaced": 1,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q37631972_P108_3",
+   "conflicts": 2,
+   "replaced": 1,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q93154_P108_3",
+   "conflicts": 2,
+   "replaced": 1,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q789233_P6_0",
+   "conflicts": 2,
+   "replaced": 1,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q218_P6_23",
+   "conflicts": 2,
+   "replaced": 0,
+   "kept_annotated": 0,
+   "tied": 2
+  },
+  {
+   "question_id": "L3_Q1297_P6_38",
+   "conflicts": 5,
+   "replaced": 1,
+   "kept_annotated": 4,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q16010_P6_38",
+   "conflicts": 3,
+   "replaced": 1,
+   "kept_annotated": 2,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q3664162_P54_9",
+   "conflicts": 2,
+   "replaced": 1,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q193749_P286_68",
+   "conflicts": 4,
+   "replaced": 3,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q639560_P286_12",
+   "conflicts": 2,
+   "replaced": 1,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q329984_P6_11",
+   "conflicts": 2,
+   "replaced": 1,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q7710139_P54_3",
+   "conflicts": 2,
+   "replaced": 1,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q476198_P69_1",
+   "conflicts": 1,
+   "replaced": 1,
+   "kept_annotated": 0,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q5236572_P39_1",
+   "conflicts": 1,
+   "replaced": 0,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q1876896_P54_3",
+   "conflicts": 2,
+   "replaced": 1,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q727532_P54_3",
+   "conflicts": 2,
+   "replaced": 1,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q16010_P6_48",
+   "conflicts": 3,
+   "replaced": 1,
+   "kept_annotated": 2,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q19498_P286_3",
+   "conflicts": 2,
+   "replaced": 1,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q329984_P6_9",
+   "conflicts": 4,
+   "replaced": 2,
+   "kept_annotated": 2,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q329984_P6_7",
+   "conflicts": 2,
+   "replaced": 1,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q40_P35_1",
+   "conflicts": 2,
+   "replaced": 1,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q8049681_P54_5",
+   "conflicts": 2,
+   "replaced": 1,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q23761984_P39_3",
+   "conflicts": 2,
+   "replaced": 1,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q193749_P286_48",
+   "conflicts": 3,
+   "replaced": 2,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q193749_P286_14",
+   "conflicts": 2,
+   "replaced": 1,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q1297_P6_44",
+   "conflicts": 4,
+   "replaced": 2,
+   "kept_annotated": 1,
+   "tied": 1
+  },
+  {
+   "question_id": "L3_Q7167581_P54_1",
+   "conflicts": 2,
+   "replaced": 1,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q7795172_P108_1",
+   "conflicts": 2,
+   "replaced": 1,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q518959_P54_9",
+   "conflicts": 2,
+   "replaced": 1,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q1297_P6_53",
+   "conflicts": 3,
+   "replaced": 1,
+   "kept_annotated": 2,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q2817362_P286_1",
+   "conflicts": 1,
+   "replaced": 1,
+   "kept_annotated": 0,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q1297_P6_5",
+   "conflicts": 1,
+   "replaced": 0,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q1782948_P488_13",
+   "conflicts": 2,
+   "replaced": 1,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q22707_P286_4",
+   "conflicts": 2,
+   "replaced": 1,
+   "kept_annotated": 1,
+   "tied": 0
+  },
+  {
+   "question_id": "L3_Q42724483_P69_1",
+   "conflicts": 2,
+   "replaced": 1,
+   "kept_annotated": 1,
+   "tied": 0
+  }
+ ]
+}

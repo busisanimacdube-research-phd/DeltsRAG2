@@ -1,0 +1,17 @@
+{
+  "document_stats": {
+    "total_documents": 2721,
+    "total_tokens": 2667820,
+    "avg_tokens_per_doc": 980.4557148107314,
+    "max_tokens": 313828,
+    "min_tokens": 6,
+    "total_chars": 11274793
+  },
+  "processing_stats": {
+    "total_contexts_processed": 5397,
+    "documents_merged": 2118,
+    "unique_documents": 603,
+    "content_appended": 8073,
+    "final_documents": 2721
+  }
+}

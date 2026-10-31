@@ -1,0 +1,10 @@
+{
+ "n_scanned": 329,
+ "with_conflict": 0,
+ "index": {
+  "event_keys": 1954,
+  "conflicting_keys": 4,
+  "conflicting_keys_across_documents": 0
+ },
+ "questions": []
+}

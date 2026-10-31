@@ -1,0 +1,537 @@
+{
+ "ComplexTR": {
+  "events": 3157,
+  "dated_events": 1988,
+  "event_keys": 1954,
+  "same_event_different_dates": 4,
+  "of_which_extraction_error": 1,
+  "of_which_recurring_same_document": 4,
+  "conflicting_reports_disjoint_documents": 0,
+  "conflicting_reports_disjoint_documents_no_extraction_error": 0,
+  "examples": [
+   {
+    "entities": [
+     "fr",
+     "hungary",
+     "igyes riesz",
+     "university of szeged",
+     "world war i"
+    ],
+    "reports": {
+     "1919-01": {
+      "docs": 1,
+      "sentence": "After World War I, Frigyes Riesz became the rector and a professor at the University of Szeged in Hungary."
+     },
+     "1920-01": {
+      "docs": 1,
+      "sentence": "After World War I, Frigyes Riesz became the rector and a professor at the University of Szeged in Hungary."
+     }
+    }
+   },
+   {
+    "entities": [
+     "stalin"
+    ],
+    "reports": {
+     "1947-12": {
+      "docs": 1,
+      "sentence": "In December 1947, Stalin's government devalued the ruble and abolished the ration-book system."
+     },
+     "1947-02": {
+      "docs": 1,
+      "sentence": "In February 1947, Stalin's government devalued the ruble and abolished the ration-book system."
+     }
+    }
+   },
+   {
+    "entities": [
+     "iflis",
+     "stalin"
+    ],
+    "reports": {
+     "1899-10": {
+      "docs": 1,
+      "sentence": "In October 1899, Stalin began work as a meteorologist at the Tiflis observatory."
+     },
+     "1899-11": {
+      "docs": 1,
+      "sentence": "In November 1899, Stalin began work as a meteorologist at the Tiflis observatory."
+     }
+    }
+   },
+   {
+    "entities": [
+     "fr",
+     "ig",
+     "yes riesz"
+    ],
+    "reports": {
+     "1880-01-22": {
+      "docs": 1,
+      "sentence": "Frigyes Riesz was born on 22 January 1880."
+     },
+     "1956-02-28": {
+      "docs": 1,
+      "sentence": "Frigyes Riesz was born on 22 January 1880."
+     }
+    }
+   }
+  ],
+  "cross_examples": []
+ },
+ "TempReason-L3": {
+  "events": 35094,
+  "dated_events": 21765,
+  "event_keys": 20022,
+  "same_event_different_dates": 168,
+  "of_which_extraction_error": 44,
+  "of_which_recurring_same_document": 121,
+  "conflicting_reports_disjoint_documents": 47,
+  "conflicting_reports_disjoint_documents_no_extraction_error": 31,
+  "examples": [
+   {
+    "entities": [
+     "carter harrison",
+     "chicago"
+    ],
+    "reports": {
+     "1976-12": {
+      "docs": 1,
+      "sentence": "Carter Harrison is the head of the government of Chicago from Dec, 1976 to Apr, 1979."
+     },
+     "1893-01": {
+      "docs": 19,
+      "sentence": "Carter Harrison is the head of the government of Chicago from Jan, 1893 to Oct, 1893."
+     },
+     "1911-01": {
+      "docs": 12,
+      "sentence": "Carter Harrison is the head of the government of Chicago from Jan, 1911 to Jan, 1915."
+     },
+     "1911": {
+      "docs": 7,
+      "sentence": "Carter Harrison is the head of the government of Chicago from Jan, 1911 to Jan, 1915."
+     },
+     "1893": {
+      "docs": 2,
+      "sentence": "Carter Harrison is the head of the government of Chicago from Jan, 1893 to Oct, 1893."
+     },
+     "1912-01": {
+      "docs": 1,
+      "sentence": "Carter Harrison is the head of the government of Chicago from Jan, 1911 to Jan, 1915."
+     }
+    }
+   },
+   {
+    "entities": [
+     "chicago",
+     "monroe heath"
+    ],
+    "reports": {
+     "1876": {
+      "docs": 7,
+      "sentence": "Monroe Heath is the head of the government of Chicago from Jan, 1876 to Jan, 1879."
+     },
+     "1876-01": {
+      "docs": 11,
+      "sentence": "Monroe Heath is the head of the government of Chicago from Jan, 1876 to Jan, 1879."
+     },
+     "1877-01": {
+      "docs": 1,
+      "sentence": "Monroe Heath is the head of the government of Chicago from Jan, 1876 to Jan, 1879."
+     }
+    }
+   },
+   {
+    "entities": [
+     "romania",
+     "tripartite pact"
+    ],
+    "reports": {
+     "1940-11": {
+      "docs": 1,
+      "sentence": "Romania signed the Tripartite Pact in November 1940."
+     },
+     "1940": {
+      "docs": 1,
+      "sentence": "Romania signed the Tripartite Pact in November\u00a01940."
+     },
+     "2040-11": {
+      "docs": 1,
+      "sentence": "Romania signed the Tripartite Pact in November\u00a01940."
+     }
+    }
+   },
+   {
+    "entities": [
+     "bc"
+    ],
+    "reports": {
+     "2044-01": {
+      "docs": 1,
+      "sentence": "Burebista's kingdom collapsed after he was murdered in 44\u00a0BC."
+     },
+     "2044-07": {
+      "docs": 1,
+      "sentence": "Burebista's kingdom collapsed after he was murdered in 44\u00a0BC."
+     }
+    }
+   },
+   {
+    "entities": [
+     "dariusz wdowczyk",
+     "legia warsaw"
+    ],
+    "reports": {
+     "2005-09": {
+      "docs": 23,
+      "sentence": "Dariusz Wdowczyk is the head coach of Legia Warsaw from Sep, 2005 to Apr, 2007."
+     },
+     "1988-07": {
+      "docs": 1,
+      "sentence": "Dariusz Wdowczyk is the head coach of Legia Warsaw from Sep, 2005 to Apr, 2007."
+     }
+    }
+   },
+   {
+    "entities": [
+     "ig metall",
+     "ugen loder"
+    ],
+    "reports": {
+     "1947-01": {
+      "docs": 1,
+      "sentence": "Eugen Loderer works for IG Metall from Jan, 1947 to Jan, 1959."
+     },
+     "1968-01": {
+      "docs": 1,
+      "sentence": "Eugen Loderer works for IG Metall from Jan, 1968 to Jan, 1983."
+     }
+    }
+   },
+   {
+    "entities": [
+     "chicago",
+     "frank j corr"
+    ],
+    "reports": {
+     "1933-03": {
+      "docs": 18,
+      "sentence": "Frank J. Corr is the head of the government of Chicago from Mar, 1933 to Apr, 1933."
+     },
+     "1933-04": {
+      "docs": 1,
+      "sentence": "Frank J. Corr is the head of the government of Chicago from Mar, 1933 to Apr, 1933."
+     },
+     "1933": {
+      "docs": 1,
+      "sentence": "Frank J. Corr is the head of the government of Chicago from Mar, 1933 to Apr, 1933."
+     }
+    }
+   },
+   {
+    "entities": [
+     "emil boc",
+     "romania"
+    ],
+    "reports": {
+     "1933-11": {
+      "docs": 1,
+      "sentence": "Emil Boc was the head of the government of Romania from Nov, 1933 to Dec, 1933."
+     },
+     "2008-12": {
+      "docs": 1,
+      "sentence": "Emil Boc was the head of the government of Romania from Dec, 2008 to Feb, 2012."
+     }
+    }
+   }
+  ],
+  "cross_examples": [
+   {
+    "1921-12": [
+     25,
+     "Take Ionescu is the head of the government of Romania from Dec, 1921 to Jan, 1922."
+    ],
+    "1881-04": [
+     1,
+     "Take Ionescu is the head of the government of Romania from Apr, 1881 to Jun, 1881."
+    ],
+    "1921": [
+     1,
+     "Take Ionescu is the head of the government of Romania from Dec, 1921 to Jan, 1922."
+    ]
+   },
+   {
+    "1934-01": [
+     23,
+     "Gheorghe T\u0103t\u0103rescu is the head of the government of Romania from Jan, 1934 to Dec, 1937."
+    ],
+    "1934": [
+     2,
+     "Gheorghe T\u0103t\u0103rescu is the head of the government of Romania from Jan, 1934 to Dec, 1937."
+    ],
+    "1881-06": [
+     1,
+     "Gheorghe T\u0103t\u0103rescu is the head of the government of Romania from Jun, 1881 to Mar, 1888."
+    ]
+   },
+   {
+    "1939-09": [
+     21,
+     "Gheorghe Arge\u0219anu is the head of the government of Romania from Sep, 1939 to Sep, 1939."
+    ],
+    "1908-09": [
+     1,
+     "Gheorghe Arge\u0219anu is the head of the government of Romania from Sep, 1908 to Dec, 1908."
+    ]
+   },
+   {
+    "1937-12": [
+     22,
+     "Octavian Goga is the head of the government of Romania from Dec, 1937 to Feb, 1938."
+    ],
+    "1933-11": [
+     1,
+     "Octavian Goga is the head of the government of Romania from Nov, 1933 to Dec, 1933."
+    ],
+    "1937": [
+     1,
+     "Octavian Goga is the head of the government of Romania from Dec, 1937 to Feb, 1938."
+    ]
+   },
+   {
+    "1881-06": [
+     23,
+     "Ion C. Br\u0103tianu is the head of the government of Romania from Jun, 1881 to Mar, 1888."
+    ],
+    "1867-06": [
+     1,
+     "Ion C. Br\u0103tianu is the head of the government of Romania from Jun, 1867 to Jun, 1869."
+    ],
+    "1881": [
+     1,
+     "Ion C. Br\u0103tianu is the head of the government of Romania from Jun, 1881 to Mar, 1888."
+    ]
+   },
+   {
+    "1945-03": [
+     21,
+     "Petru Groza is the head of the government of Romania from Mar, 1945 to Jun, 1952."
+    ],
+    "1944-12": [
+     1,
+     "Petru Groza is the head of the government of Romania from Dec, 1944 to Nov, 1952."
+    ],
+    "1945": [
+     2,
+     "Petru Groza is the head of the government of Romania from Mar, 1945 to Jun, 1952."
+    ]
+   },
+   {
+    "1870-11": [
+     1,
+     "Ion G. Duca is the head of the government of Romania from Nov, 1870 to Feb, 1871."
+    ],
+    "1933-11": [
+     24,
+     "Ion G. Duca is the head of the government of Romania from Nov, 1933 to Dec, 1933."
+    ],
+    "1933": [
+     2,
+     "Ion G. Duca is the head of the government of Romania from Nov, 1933 to Dec, 1933."
+    ]
+   },
+   {
+    "1982-05": [
+     23,
+     "Constantin D\u0103sc\u0103lescu is the head of the government of Romania from May, 1982 to Dec, 1989."
+    ],
+    "1939-09": [
+     1,
+     "Constantin D\u0103sc\u0103lescu is the head of the government of Romania from Sep, 1939 to Nov, 1939."
+    ],
+    "1982": [
+     1,
+     "Constantin D\u0103sc\u0103lescu is the head of the government of Romania from May, 1982 to Dec, 1989."
+    ]
+   },
+   {
+    "1933-11": [
+     1,
+     "Emil Boc was the head of the government of Romania from Nov, 1933 to Dec, 1933."
+    ],
+    "2008-12": [
+     1,
+     "Emil Boc was the head of the government of Romania from Dec, 2008 to Feb, 2012."
+    ]
+   },
+   {
+    "1970": [
+     3,
+     "Arthur Useldinger is the head of the government of Esch-sur-Alzette from Jan, 1970 to Mar, 1978."
+    ],
+    "1970-01": [
+     8,
+     "Arthur Useldinger is the head of the government of Esch-sur-Alzette from Jan, 1970 to Mar, 1978."
+    ],
+    "1970-03": [
+     1,
+     "Arthur Useldinger is the head of the government of Esch-sur-Alzette from Jan, 1970 to Mar, 1978."
+    ]
+   }
+  ]
+ },
+ "TimeQA": {
+  "events": 31051,
+  "dated_events": 18648,
+  "event_keys": 17636,
+  "same_event_different_dates": 60,
+  "of_which_extraction_error": 3,
+  "of_which_recurring_same_document": 60,
+  "conflicting_reports_disjoint_documents": 0,
+  "conflicting_reports_disjoint_documents_no_extraction_error": 0,
+  "examples": [
+   {
+    "entities": [
+     "london",
+     "port adelaide"
+    ],
+    "reports": {
+     "1842-06-20": {
+      "docs": 1,
+      "sentence": "The passenger ship Taglione departed London on 20 June 1842 and arrived in Port Adelaide on 13 October 1842."
+     },
+     "1844-09-02": {
+      "docs": 1,
+      "sentence": "The passenger ship Taglione departed London on 2 September 1844 and arrived in Port Adelaide on 12 September 1844."
+     },
+     "1845-12-08": {
+      "docs": 1,
+      "sentence": "The passenger ship Taglione departed London on 8 December 1845 and arrived in Port Adelaide on 8 December 1845."
+     }
+    }
+   },
+   {
+    "entities": [
+     "leahy"
+    ],
+    "reports": {
+     "1889": {
+      "docs": 1,
+      "sentence": "Admiral Leahy became a Lieutenant in 1889."
+     },
+     "1954": {
+      "docs": 1,
+      "sentence": "Admiral Leahy became a Lieutenant in 1954."
+     }
+    }
+   },
+   {
+    "entities": [
+     "ncaa division iii tournament"
+    ],
+    "reports": {
+     "2008": {
+      "docs": 1,
+      "sentence": "Womens basketball appeared in the NCAA Division III Tournament in 2008."
+     },
+     "2007": {
+      "docs": 1,
+      "sentence": "Womens basketball appeared in the NCAA Division III Tournament in 2007."
+     }
+    }
+   },
+   {
+    "entities": [
+     "justin",
+     "us kerner",
+     "\u00f8ren kierkegaard"
+    ],
+    "reports": {
+     "2023-07-11": {
+      "docs": 1,
+      "sentence": "S\u00f8ren Kierkegaard wrote about Justinus Kerner in his journal on July 11, 1837."
+     },
+     "2023-07-13": {
+      "docs": 1,
+      "sentence": "S\u00f8ren Kierkegaard wrote about Justinus Kerner in his journal on July 13, 1837."
+     }
+    }
+   },
+   {
+    "entities": [
+     "leahy"
+    ],
+    "reports": {
+     "1903": {
+      "docs": 1,
+      "sentence": "Admiral Leahy became a Commander in 1903."
+     },
+     "1964": {
+      "docs": 1,
+      "sentence": "Admiral Leahy became a Commander in 1964."
+     }
+    }
+   },
+   {
+    "entities": [
+     "dodge"
+    ],
+    "reports": {
+     "1806": {
+      "docs": 1,
+      "sentence": "In 1806 Dodge was appointed deputy sheriff reporting to his father."
+     },
+     "1805": {
+      "docs": 1,
+      "sentence": "In 1805 Dodge was appointed deputy sheriff, reporting to his father."
+     }
+    }
+   },
+   {
+    "entities": [
+     "dreadnought hospital",
+     "greenwich"
+    ],
+    "reports": {
+     "1949": {
+      "docs": 1,
+      "sentence": "From 1937 he was chairman of the seamens Dreadnought Hospital in Greenwich , and became its president in 1949 , serving until 1962."
+     },
+     "1937-01-01": {
+      "docs": 1,
+      "sentence": "From 1937 he was chairman of the seamens Dreadnought Hospital in Greenwich , and became its president in 1949 , serving until 1962."
+     }
+    }
+   },
+   {
+    "entities": [
+     "bertrand delano\u00eb",
+     "paris"
+    ],
+    "reports": {
+     "1983": {
+      "docs": 1,
+      "sentence": "Bertrand Delano\u00eb was reelected Councillor (Conseiller) of Paris in 1983."
+     },
+     "1989": {
+      "docs": 1,
+      "sentence": "Bertrand Delano\u00eb was reelected Councillor (Conseiller) of Paris in 1989."
+     },
+     "1995": {
+      "docs": 1,
+      "sentence": "Bertrand Delano\u00eb was reelected Councillor (Conseiller) of Paris in 1995."
+     },
+     "2001": {
+      "docs": 1,
+      "sentence": "Bertrand Delano\u00eb was reelected Councillor (Conseiller) of Paris in 2001."
+     },
+     "2008": {
+      "docs": 1,
+      "sentence": "Bertrand Delano\u00eb was reelected Councillor (Conseiller) of Paris in 2008."
+     }
+    }
+   }
+  ],
+  "cross_examples": []
+ }
+}
